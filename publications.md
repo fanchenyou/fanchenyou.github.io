@@ -8,17 +8,17 @@ permalink: /publications/
 
 
 ## Selected Publicaitons
-* **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[pdf]](https://ieeexplore.ieee.org/document/10149393?_blank)
+* **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[pdf]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
-* Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. "Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering." International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[pdf]]( https://arxiv.org/abs/2304.13911?_blank)
+* Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. "Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering." International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[pdf]]( https://arxiv.org/abs/2304.13911){:target="_blank"}
 
-* Tianqi Pang, Kehui Tan, **Chenyou Fan**. "Carbon Price Forecasting with Quantile Regression and Feature Selection." International Conference on Data Mining and Knowledge Discovery (DMKD-23). [[pdf]]( https://arxiv.org/abs/2305.03224?_blank)
+* Tianqi Pang, Kehui Tan, **Chenyou Fan**. "Carbon Price Forecasting with Quantile Regression and Feature Selection." International Conference on Data Mining and Knowledge Discovery (DMKD-23). [[pdf]]( https://arxiv.org/abs/2305.03224){:target="_blank"}
 
 * Heng-yang Lu, **Chenyou Fan**, others. "Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications." International Conference on Computational Linguistics (COLING-22).
 
-* **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Private Semi-Supervised Federated Learning." 31st International Joint Conference on Artificial Intelligence (IJCAI'22, 15% acceptance rate). [[pdf]](https://www.ijcai.org/proceedings/2022/279?_blank)
+* **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Private Semi-Supervised Federated Learning." 31st International Joint Conference on Artificial Intelligence (IJCAI'22, 15% acceptance rate). [[pdf]](https://www.ijcai.org/proceedings/2022/279){:target="_blank"}
 
-* **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Few-Shot Multi-Agent Perception." 29th ACM International Conference on Multimedia 2021 (ACM MM'21, 27.9% acceptance rate) [[pdf]](./docs/fs_map_1.pdf?_blank) [poster](./docs/mm21_poster.pdf?_blank) [code](https://github.com/fanchenyou/fs-map-project?_blank)
+* **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Few-Shot Multi-Agent Perception." 29th ACM International Conference on Multimedia 2021 (ACM MM'21, 27.9% acceptance rate) [[pdf]](./docs/fs_map_1.pdf){:target="_blank"} [[poster]](./docs/mm21_poster.pdf?){:target="_blank"} [[code]](https://github.com/fanchenyou/fs-map-project){:target="_blank"}
 
 
 
