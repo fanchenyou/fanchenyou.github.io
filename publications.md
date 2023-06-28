@@ -20,7 +20,6 @@ permalink: /publications/
 
 * **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Few-Shot Multi-Agent Perception." 29th ACM International Conference on Multimedia 2021 (ACM MM'21, 27.9% acceptance rate) [[pdf]](./docs/fs_map_1.pdf){:target="_blank"} [[poster]](./docs/mm21_poster.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/fs-map-project){:target="_blank"}
 
-
 * Tianyi Lin, **Chenyou Fan** (co-first), Nhat Ho, Marco Cuturi, Michael I. Jordan. "Projection Robust Wasserstein Distance and Riemannian Optimization." Conference on Neural Information Processing Systems (NeurIPS'20, spotlight, 20% acceptance rate, 3% spotlight rate) [[pdf]](https://arxiv.org/abs/2006.07458){:target="_blank"} [[code]](https://github.com/fanchenyou/PRW){:target="_blank"}
 
 * **Chenyou Fan**, Heng Huang. "Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering." IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR'19, 25.2% acceptance rate) [[pdf]](https://arxiv.org/pdf/1904.04357.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/HME-VideoQA){:target="_blank"}
@@ -33,7 +32,7 @@ permalink: /publications/
 
 * **Chenyou Fan**, Jangwon Lee, Mingze Xu, K.K. Singh, Y.J. Lee, David J. Crandall, Michael S. Ryoo, "Identifying first-person camera wearers in third-person videos", IEEE Conference on Computer Vision and Pattern Recognition 2017 (CVPR'17, 29.0% acceptance rate). [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_Identifying_First-Person_Camera_CVPR_2017_paper.pdf){:target="_blank"} [[data & project page]](http://vision.soic.indiana.edu/identifying-1st-3rd/){:target="_blank"}
 
-* AJ Piergiovanni, **Chenyou Fan**, and Michael S. Ryoo, "Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters", the 31st AAAI Conference on Artificial Intelligence (AAAI), February 2017. [[pdf]](http://arxiv.org/abs/1605.08140){:target="_blank"} [[source_code]](https://github.com/piergiaj/latent-subevents){:target="_blank"}
+* AJ Piergiovanni, **Chenyou Fan**, and Michael S. Ryoo, "Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters", the 31st AAAI Conference on Artificial Intelligence (AAAI), February 2017. [[pdf]](http://arxiv.org/abs/1605.08140){:target="_blank"}
 
 
 ## Presentations
@@ -50,14 +49,14 @@ permalink: /publications/
 
 * Hengyang Lu, **Chenyou Fan**. ***"Few-shot COVID-19 Rumor Detection for Online Social Media."*** PeerJ Computer Science. [[pdf]](https://peerj.com/articles/cs-688/){:target="_blank"}
 
-* **Chenyou Fan**, Ping Liu. ***"Federated Generative Adversarial Learning."*** Chinese Conference on Pattern Recognition and Computer Vision (PRCV'20)[[pdf]](https://arxiv.org/abs/2005.03793){:target="_blank"}
+* **Chenyou Fan**, Ping Liu. ***"Federated Generative Adversarial Learning."*** Chinese Conference on Pattern Recognition and Computer Vision (PRCV'20). [[pdf]](https://arxiv.org/abs/2005.03793){:target="_blank"}
  
 * Tianyi Lin, **Chenyou Fan**, Mengdi Wang, M.I.Jordan. "Improved Sample Complexity for Stochastic Compositional Variance Reduced Gradient." American Control Conference 2020 (ACC'20). [[pdf]](https://arxiv.org/abs/1806.00458){:target="_blank"}
 
-* Mingze Xu, **Chenyou Fan**, John Paden, Geoffrey Fox, and David J. Crandall. "Multi-Task Spatiotemporal Neural Networks for Structured Surface Reconstruction." IEEE Winter Conference on Applications of Computer Vision 2018 (WACV’18). [pdf]
+* Mingze Xu, **Chenyou Fan**, John Paden, Geoffrey Fox, and David J. Crandall. "Multi-Task Spatiotemporal Neural Networks for Structured Surface Reconstruction." IEEE Winter Conference on Applications of Computer Vision 2018 (WACV’18). [[pdf]](https://arxiv.org/pdf/1801.03986.pdf){:target="_blank"}
 
-* **Chenyou Fan**. ***"EgoVQA - An Egocentric Video Question Answering Benchmark Dataset"***. International Workshop on Egocentric Perception, Interaction and Computing (EPIC@ICCV), Octorber 2019.[[more]](https://openaccess.thecvf.com/content_ICCVW_2019/html/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.html){:target="_blank"}
+* **Chenyou Fan**. ***"EgoVQA - An Egocentric Video Question Answering Benchmark Dataset"***. International Workshop on Egocentric Perception, Interaction and Computing (EPIC@ICCV), Octorber 2019. [[pdf]](https://openaccess.thecvf.com/content_ICCVW_2019/html/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.html){:target="_blank"}
 
-* **Chenyou Fan**, Jangwon Lee and Michael S. Ryoo. ***"Forecasting Hand and Object Locations in Future Frames"***. European Conference Workshop on Anticipating Human Behavior (AHB@ECCV), August 2018.[[pdf]](https://arxiv.org/abs/1705.07328){:target="_blank"}
+* **Chenyou Fan**, Jangwon Lee and Michael S. Ryoo. ***"Forecasting Hand and Object Locations in Future Frames"***. European Conference Workshop on Anticipating Human Behavior (AHB@ECCV), August 2018. [[pdf]](https://arxiv.org/abs/1705.07328){:target="_blank"}
 
 * **Chenyou Fan** and David J. Crandall, ***"Deepdiary: Automatically Captioning Lifelogging Image Streams"***. European Conference Workshop on Egocentric Perception, Interaction, and Computing (EPIC@ECCV), October 2016. [[pdf]](http://vision.soic.indiana.edu/projects/deepdiary-automatically-captioning-lifelogging-image-streams/){:target="_blank"}
