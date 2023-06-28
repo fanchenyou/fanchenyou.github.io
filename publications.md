@@ -1,7 +1,7 @@
 ---
 layout: archive-taxonomies
 type: publications
-title: publications
+title: Research Publications
 permalink: /publications/
 ---
 
@@ -10,15 +10,18 @@ permalink: /publications/
 ## Selected Publicaitons
 * **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[pdf]](https://ieeexplore.ieee.org/document/10149393?_blank)
 
-* Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. "Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering." International Conference on Knowledge Science, Engineering and Management (KSEM-23).
+* Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. "Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering." International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[pdf]]( https://arxiv.org/abs/2304.13911?_blank)
 
-* Tianqi Pang, Kehui Tan, **Chenyou Fan**. "Carbon Price Forecasting with Quantile Regression and Feature Selection." International Conference on Data Mining and Knowledge Discovery (DMKD-23).
+* Tianqi Pang, Kehui Tan, **Chenyou Fan**. "Carbon Price Forecasting with Quantile Regression and Feature Selection." International Conference on Data Mining and Knowledge Discovery (DMKD-23). [[pdf]]( https://arxiv.org/abs/2305.03224?_blank)
 
 * Heng-yang Lu, **Chenyou Fan**, others. "Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications." International Conference on Computational Linguistics (COLING-22).
 
 * **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Private Semi-Supervised Federated Learning." 31st International Joint Conference on Artificial Intelligence (IJCAI'22, 15% acceptance rate). [[pdf]](https://www.ijcai.org/proceedings/2022/279?_blank)
 
-* **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Few-Shot Multi-Agent Perception." 29th ACM International Conference on Multimedia 2021 (ACM MM'21, 27.9% acceptance rate) [pdf] [poster] [code]
+* **Chenyou Fan**, Junjie Hu, Jianwei Huang. "Few-Shot Multi-Agent Perception." 29th ACM International Conference on Multimedia 2021 (ACM MM'21, 27.9% acceptance rate) [[pdf]](./docs/fs_map_1.pdf?_blank) [poster](./docs/mm21_poster.pdf?_blank) [code](https://github.com/fanchenyou/fs-map-project?_blank)
+
+
+
 
 * Tianyi Lin, **Chenyou Fan** (co-first), Nhat Ho, Marco Cuturi, Michael I. Jordan. "Projection Robust Wasserstein Distance and Riemannian Optimization." Conference on Neural Information Processing Systems (NeurIPS'20, spotlight, 20% acceptance rate, 3% spotlight rate) [pdf] [code]
 
@@ -36,8 +39,10 @@ permalink: /publications/
 * AJ Piergiovanni, **Chenyou Fan**, and Michael S. Ryoo, "Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters", the 31st AAAI Conference on Artificial Intelligence (AAAI), February 2017. [pdf] [source_code]
 
 
-## Resources
+## Presentations
 * **Chenyou Fan**. "Few-shot Learning in views of Meta, Metric and Prompt Learning." [[pdf]](https://fanchenyou.github.io/homepage/docs/FSL.pdf)
+
+## Tutorials
 * **Chenyou Fan**. "Survey of Convolutional Neural Network." [[pdf]](https://fanchenyou.github.io/homepage/docs/cnn_survey.pdf)
 
 
