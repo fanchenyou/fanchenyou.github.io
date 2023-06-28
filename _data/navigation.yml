@@ -1,0 +1,14 @@
+- title: About
+  url: /
+- title: Publications
+  url: /publications/
+- title: Projects
+  url: /projects/
+- title: Teaching
+  url: /teaching/
+- title: More
+  sublinks:
+    - title: Datasets
+      url: /datasets/
+    - title: Patents
+      url: /patents/
