@@ -14,9 +14,7 @@ layout: default
 	<ul>
 	{% for news in site.data.news %}
 		<li>
-			<h3>{{ news.title }}</h3>
-			<p>{{ news.date | date: "%B %-d, %Y" }}</p>
-			<p>{{ news.content }}</p>
+			<p>{{ news.date | date: "%Y-%B-%-d " }} {{ news.content }}</p>
 		</li>
 	{% endfor %}
 	</ul>
