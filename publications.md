@@ -5,6 +5,7 @@ title: Research Publications
 permalink: /publications/
 ---
 
+<p>An up-to-date list is available on <a href="https://scholar.google.com/citations?user=FRu9MHcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
 
 
 ## Selected Publicaitons

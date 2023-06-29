@@ -5,9 +5,11 @@ permalink: /teaching/
 ---
 ### Teaching in SCNU
 
-- Mathematical Modeling 2023 Spring
+- 2023 Fall - Deep Learning (upcoming)
 
-- Elements of Artificial Intelligence 2022 Fall
+- 2023 Spring - Mathematical Modeling 
+
+- 2022 Fall - Elements of Artificial Intelligence 
 
 ### Associate Instructor in IU (2013-2016)
 
