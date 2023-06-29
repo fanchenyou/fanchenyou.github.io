@@ -6,9 +6,7 @@ permalink: /publications/
 ---
 
 
-<p>My research topics include first-person videos, image captioning, video question answering, federated learning and time series analysis.</p>
-
-<p>An up-to-date list is available on <a href="https://scholar.google.com/citations?user=FRu9MHcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
+<p>My research topics include first-person videos, image captioning, video question answering, federated learning and time series analysis. An up-to-date list is available on <a href="https://scholar.google.com/citations?user=FRu9MHcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
 
 
 ## Selected Publicaitons
