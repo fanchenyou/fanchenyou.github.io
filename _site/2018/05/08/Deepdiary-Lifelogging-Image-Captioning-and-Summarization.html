@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Deepdiary： Lifelogging image captioning and summarization | Chenyou Fan</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Deepdiary： Lifelogging image captioning and summarization" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Automatic image captioning has been studied extensively over the last few years, driven by breakthroughs in deep learning-based image-to-text translation models. However, most of this work has considered captioning web images from standard data sets like MS-COCO, and has considered single images in isolation. To what extent can automatic captioning models learn finer-grained contextual information specific to a given person’s day-to-day visual experiences? In this paper, we consider captioning image sequences collected from wearable, life-logging cameras. Automatically-generated captions could help people find and recall photos among their large-scale life-logging photo collections, or even to produce textual “diaries” that summarize their day. But unlike web images, photos from wearable cameras are often blurry and poorly composed, without an obvious single subject. Their content also tends to be highly dependent on the context and characteristics of the particular camera wearer. To address these challenges, we introduce a technique to jointly caption sequences of photos, which allows captions to take advantage of temporal constraints and evidence across time, and we introduce a technique to increase the diversity of generated captions, so that they can describe a photo from multiple perspectives (e.g., first-person versus third-person). To test these techniques, we collect a dataset of about 8000 realistic lifelogging images, a subset of which are annotated with nearly 5000 human-generated reference sentences. We evaluate the quality of image captions both quantitatively and qualitatively using Amazon Mechanical Turk, finding that while these algorithms are not perfect, they could be an important step towards helping to organize and summarize lifelogging photos." />
+<meta property="og:description" content="Automatic image captioning has been studied extensively over the last few years, driven by breakthroughs in deep learning-based image-to-text translation models. However, most of this work has considered captioning web images from standard data sets like MS-COCO, and has considered single images in isolation. To what extent can automatic captioning models learn finer-grained contextual information specific to a given person’s day-to-day visual experiences? In this paper, we consider captioning image sequences collected from wearable, life-logging cameras. Automatically-generated captions could help people find and recall photos among their large-scale life-logging photo collections, or even to produce textual “diaries” that summarize their day. But unlike web images, photos from wearable cameras are often blurry and poorly composed, without an obvious single subject. Their content also tends to be highly dependent on the context and characteristics of the particular camera wearer. To address these challenges, we introduce a technique to jointly caption sequences of photos, which allows captions to take advantage of temporal constraints and evidence across time, and we introduce a technique to increase the diversity of generated captions, so that they can describe a photo from multiple perspectives (e.g., first-person versus third-person). To test these techniques, we collect a dataset of about 8000 realistic lifelogging images, a subset of which are annotated with nearly 5000 human-generated reference sentences. We evaluate the quality of image captions both quantitatively and qualitatively using Amazon Mechanical Turk, finding that while these algorithms are not perfect, they could be an important step towards helping to organize and summarize lifelogging photos." />
+<link rel="canonical" href="http://localhost:4000/2018/05/08/Deepdiary-Lifelogging-Image-Captioning-and-Summarization.html" />
+<meta property="og:url" content="http://localhost:4000/2018/05/08/Deepdiary-Lifelogging-Image-Captioning-and-Summarization.html" />
+<meta property="og:site_name" content="Chenyou Fan" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-05-08T00:00:00+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Deepdiary： Lifelogging image captioning and summarization" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2018-05-08T00:00:00+08:00","datePublished":"2018-05-08T00:00:00+08:00","description":"Automatic image captioning has been studied extensively over the last few years, driven by breakthroughs in deep learning-based image-to-text translation models. However, most of this work has considered captioning web images from standard data sets like MS-COCO, and has considered single images in isolation. To what extent can automatic captioning models learn finer-grained contextual information specific to a given person’s day-to-day visual experiences? In this paper, we consider captioning image sequences collected from wearable, life-logging cameras. Automatically-generated captions could help people find and recall photos among their large-scale life-logging photo collections, or even to produce textual “diaries” that summarize their day. But unlike web images, photos from wearable cameras are often blurry and poorly composed, without an obvious single subject. Their content also tends to be highly dependent on the context and characteristics of the particular camera wearer. To address these challenges, we introduce a technique to jointly caption sequences of photos, which allows captions to take advantage of temporal constraints and evidence across time, and we introduce a technique to increase the diversity of generated captions, so that they can describe a photo from multiple perspectives (e.g., first-person versus third-person). To test these techniques, we collect a dataset of about 8000 realistic lifelogging images, a subset of which are annotated with nearly 5000 human-generated reference sentences. We evaluate the quality of image captions both quantitatively and qualitatively using Amazon Mechanical Turk, finding that while these algorithms are not perfect, they could be an important step towards helping to organize and summarize lifelogging photos.","headline":"Deepdiary： Lifelogging image captioning and summarization","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2018/05/08/Deepdiary-Lifelogging-Image-Captioning-and-Summarization.html"},"url":"http://localhost:4000/2018/05/08/Deepdiary-Lifelogging-Image-Captioning-and-Summarization.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Chenyou Fan" />
+
+
+
+
+
+<!-- Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans|Roboto|Roboto%20Slab|Inconsolata|Dancing%20Script|Noto%20Sans%20SC|Noto%20Sans%20TC|Noto%20Serif%20SC|Noto%20Serif%20TC|Ma%20Shan%20Zheng">
+
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/skin.css">
+
+<!-- Begin selecting skin -->
+
+<!-- End selecting skin -->
+
+<script async src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+
+
+
+
+  </head>
+
+  <body>
+    <div class="site-container">
+      <header class="site-header">
+        <div class="wrapper">
+  <script>
+    function clickSidebarButton() {
+      const elem = document.getElementById("site-sidebar")
+      if (elem.style.display == "none" || elem.style.display == "") {
+        elem.style.display = "block";
+      } else {
+        elem.style.display = "none";
+      }
+    }
+  </script>
+  <a class="site-sidebar-button" onclick="clickSidebarButton()"><i class="far fa-user"></i>
+  </a>
+
+  <a class="site-title" rel="author" href="/">Chenyou Fan</a>
+
+  
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger" title="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+          </svg>
+        </span>
+      </label>
+
+      <ul class="trigger">
+              <li><a class="" href="/">About</a></li>
+            
+              <li><a class="" href="/publications/">Publications</a></li>
+            
+              <li><a class="" href="/projects/">Projects</a></li>
+            
+              <li><a class="" href="/presentations/">Presentations</a></li>
+            
+              <li><a class="" href="/teaching/">Teaching</a></li>
+            
+              <li class="dropdown" href="#">
+                <a href="javascript:void(0)" class="dropbtn">More</a>
+                <div class="dropdown-content">
+                    <a class="" href="/datasets/">Datasets</a>
+                    <a class="" href="/patents/">Patents</a>
+                </div>
+              </li>
+            </ul>
+    </nav>
+  
+</div>
+
+      </header>
+      
+      <div class="site-body wrapper">
+        <aside class="site-sidebar" id="site-sidebar">
+          
+            <div class="sidebar-section"><img src="/FCY.jpg" class="author-avatar u-photo align-center" alt="Chenyou Fan (Ph.D.)">
+  </div>
+
+<div class="sidebar-section">
+  <ul class="contact-list">
+    <li>
+        <i class="sidebar-icon fas fa-at"></i>
+        <span class="contact-info p-name">Chenyou Fan (Ph.D.)</span>
+      </li>
+    <li>
+        <i class="sidebar-icon fas fa-envelope"></i>
+        <a class="contact-info u-email" href="mailto:fanchenyou-at-gmail.com">fanchenyou-at-gmail.com</a>
+      </li>
+    
+  </ul>
+</div>
+	
+
+<div class="sidebar-section">
+    <ul class="social-icons">
+      <li>
+          <a class="social-icon" href="https://github.com/fanchenyou"><i class="fab fa-github fa-2x" title="GitHub"></i></a>
+        </li>
+        <li>
+	        <a href="https://www.scholat.com/fanchenyou">
+  				<img src="/scholat.png" style="margin-top: -15px;" width="30" height="32">
+			</a>
+	    </li>
+    </ul>
+  </div>
+
+          
+        </aside>
+        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">
+          <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+
+    <h1 class="post-title p-name" itemprop="name headline">Deepdiary： Lifelogging image captioning and summarization</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2018-05-08T00:00:00+08:00" itemprop="datePublished">
+        May 8, 2018
+      </time>• 
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">Chenyou Fan</span></span>, 
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">Zehua Zhang</span></span>, 
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">David J. Crandall</span></span></p>
+
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Automatic image captioning has been studied extensively over the last few years, driven by breakthroughs in deep learning-based image-to-text translation models. However, most of this work has considered captioning web images from standard data sets like MS-COCO, and has considered single images in isolation. To what extent can automatic captioning models learn finer-grained contextual information specific to a given person’s day-to-day visual experiences? In this paper, we consider captioning image sequences collected from wearable, life-logging cameras. Automatically-generated captions could help people find and recall photos among their large-scale life-logging photo collections, or even to produce textual “diaries” that summarize their day. But unlike web images, photos from wearable cameras are often blurry and poorly composed, without an obvious single subject. Their content also tends to be highly dependent on the context and characteristics of the particular camera wearer. To address these challenges, we introduce a technique to jointly caption sequences of photos, which allows captions to take advantage of temporal constraints and evidence across time, and we introduce a technique to increase the diversity of generated captions, so that they can describe a photo from multiple perspectives (e.g., first-person versus third-person). To test these techniques, we collect a dataset of about 8000 realistic lifelogging images, a subset of which are annotated with nearly 5000 human-generated reference sentences. We evaluate the quality of image captions both quantitatively and qualitatively using Amazon Mechanical Turk, finding that while these algorithms are not perfect, they could be an important step towards helping to organize and summarize lifelogging photos.</p>
+
+<h6 id="2018-journal-of-visual-communication-and-image-representation">2018. Journal of Visual Communication and Image Representation</h6>
+
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320318301032" target="_blank">for more information</a><br /></p>
+
+  </div>
+
+  <footer class="post-footer">
+    
+
+    
+
+    <nav class="post-pagination" role="navigation">
+      
+        <a class="post-previous" href="/2018/03/29/Joint-Person-Segmentation-and-Identification-in-Synchronized-First-and-Third-person-Videos.html">
+          <h4 class="post-pagination-label">Prev</h4>
+          <span class="post-pagination-title">
+            <i class="fas fa-arrow-left"></i> Joint Person Segmentation and Identification in Synchronized First-and Third-person Videos
+
+          </span>
+        </a>
+      
+
+      
+        <a class="post-next" href="/2018/06/01/Improved-Sample-Complexity-for-Stochastic-Compositional-Variance-Reduced-Gradient.html">
+          <h4 class="post-pagination-label">Next</h4>
+          <span class="post-pagination-title">
+            Improved Sample Complexity for Stochastic Compositional Variance Reduced Gradient
+ <i class="fas fa-arrow-right"></i>
+          </span>
+        </a>
+      
+    </nav>
+  </footer>
+
+  
+  
+</article>
+
+          <footer class="site-footer">
+            <div class="footer-col-wrapper">
+
+  <div class="footer-col">
+    <div class="copyright">
+      
+      
+      
+      
+      <p>Copyright © 2017&nbsp;-&nbsp;2023 Chenyou Fan (Ph.D.); All rights reserved.</p>
+      
+    </div>
+    <p>
+      Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/ngzhio/jekyll-theme-hamilton">Hamilton</a>
+    </p>
+  </div>
+
+  <div class="footer-col">
+    <p>Associate Professor of School of Artificial Intelligence, South China Normal University.</p>
+  </div>
+</div>
+
+          </footer>
+        </main>
+      </div>
+    </div>
+  </body>
+
+</html>
