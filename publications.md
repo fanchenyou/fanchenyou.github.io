@@ -39,14 +39,8 @@ permalink: /publications/
 * AJ Piergiovanni, **Chenyou Fan**, and Michael S. Ryoo. ***"Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters."*** the 31st AAAI Conference on Artificial Intelligence (AAAI), February 2017. [[pdf]](http://arxiv.org/abs/1605.08140){:target="_blank"}
 
 
-## Presentations
-* **Chenyou Fan**. ***"Few-shot Learning in views of Meta, Metric and Prompt Learning."*** [[pdf]](https://fanchenyou.github.io/docs/FSL.pdf){:target="_blank"}
-
-* **Chenyou Fan**. ***"大模型简介 (Intro to LLMs)."*** Presentation given in South China Normal University, 2023-03-05. [[pdf]](https://fanchenyou.github.io/docs/llm.pdf){:target="_blank"}
-
 ## Tutorials
 * **Chenyou Fan**. ***"Survey of Convolutional Neural Network."*** [[pdf]](https://fanchenyou.github.io/docs/cnn_survey.pdf){:target="_blank"}
-
 
 ## More Research Collaboration work
 
