@@ -42,7 +42,7 @@ permalink: /publications/
 ## Tutorials
 * **Chenyou Fan**. ***"Survey of Convolutional Neural Network."*** [[pdf]](https://fanchenyou.github.io/docs/cnn_survey.pdf){:target="_blank"}
 
-## More Research Collaboration work
+## More Research Collaboration Work
 
 * Junjie Hu, **Chenyou Fan**, Hualie Jiang, Xiyue Guo, Yuan Gao, Xiangyong Lu, Tin Lun Lam. ***"Boosting LightWeight Depth Estimation Via Knowledge Distillation."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[pdf]]( https://arxiv.org/abs/2105.06143){:target="_blank"}
 
