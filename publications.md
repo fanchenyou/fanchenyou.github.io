@@ -12,6 +12,9 @@ permalink: /publications/
 ## Selected Publicaitons
 * **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
+* **Chenyou Fan**, Hengyang Lu, Aimin Huang. ***"A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting."*** European Conference on Artificial Intelligence (ECAI-2023). 
+<!-- [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"} -->
+
 * Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. ***"Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[paper]]( https://arxiv.org/abs/2304.13911){:target="_blank"}
 
 * Tianqi Pang, Kehui Tan, **Chenyou Fan**. ***"Carbon Price Forecasting with Quantile Regression and Feature Selection."*** International Conference on Data Mining and Knowledge Discovery (DMKD-23). [[paper]]( https://arxiv.org/abs/2305.03224){:target="_blank"}
