@@ -19,6 +19,8 @@ permalink: /publications/
 
 * Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. ***"Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[paper]]( https://arxiv.org/abs/2304.13911){:target="_blank"}
 
+* Junjie Hu, **Chenyou Fan**, Xiyue Guo, Liguang Zhou, Tin Lun Lam. ***"Self-supervised Single-line LiDAR Depth Completion."*** IEEE Robotics and Automation Letters (RA-L). [[paper]]( https://ieeexplore.ieee.org/document/10258421){:target="_blank"}
+
 * Tianqi Pang, Kehui Tan, **Chenyou Fan**. ***"Carbon Price Forecasting with Quantile Regression and Feature Selection."*** International Conference on Data Mining and Knowledge Discovery (DMKD-23). [[paper]]( https://arxiv.org/abs/2305.03224){:target="_blank"}
 
 * Heng-yang Lu, **Chenyou Fan**, others. ***"Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications."*** International Conference on Computational Linguistics (COLING-22).
