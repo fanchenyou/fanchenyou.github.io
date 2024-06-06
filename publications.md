@@ -13,7 +13,12 @@ permalink: /publications/
 * **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
 * **Chenyou Fan**, Hengyang Lu, Aimin Huang. ***"A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting."*** European Conference on Artificial Intelligence (ECAI-2023). 
-[[pdf]](./docs/ecai_paper.pdf){:target="_blank"}[[ppt]](./docs/ECAI_23.pdf){:target="_blank"}
+[[pdf]](./docs/ecai_paper.pdf){:target="_blank"} [[ppt]](./docs/ECAI_23.pdf){:target="_blank"}
+
+* Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  International Conference on Artificial Neural Networks (ICANN-2024). [[pdf]](./docs/icann24_paper.pdf){:target="_blank"} 
+
+* Tianqi Pang, Kehui Tan, Yujun Yao, Xiangyang Liu, **Chenyou Fan**, Xiaofan Zhang. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  
+International Joint Conference on Neural Networks (IJCNN-2024). [[pdf]](./docs/ijcnn24_paper.pdf){:target="_blank"} 
 
 * **Chenyou Fan**, Haiqi Jiang, Aimin Huang, and Junjie Hu. ***"Trajectory prediction with contrastive pre-training and social rank fine-tuning."*** International Conference on Neural Information Processing, 2023. (ICONIP-23). [[pdf]](./docs/iconip_trajectory_prediction.pdf){:target="_blank"}
 
