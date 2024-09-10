@@ -15,7 +15,7 @@ permalink: /publications/
 * **Chenyou Fan**, Hengyang Lu, Aimin Huang. ***"A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting."*** European Conference on Artificial Intelligence (ECAI-2023). 
 [[pdf]](./docs/ecai_paper.pdf){:target="_blank"} [[ppt]](./docs/ECAI_23.pdf){:target="_blank"}
 
-* Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  International Conference on Artificial Neural Networks (ICANN-2024). [[pdf]](./docs/icann24.pdf){:target="_blank"} 
+* Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  International Conference on Artificial Neural Networks (ICANN-2024). [[pdf]](./docs/icann24.pdf){:target="_blank"}[[poster]][[video]](https://drive.google.com/file/d/1H5qZRKxVsyySubyyLug5A9nxC5CtNwyA/view?usp=drive_link)
 
 * Tianqi Pang, Kehui Tan, Yujun Yao, Xiangyang Liu, **Chenyou Fan**, Xiaofan Zhang. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  
 International Joint Conference on Neural Networks (IJCNN-2024). [[pdf]](./docs/ijcnn24.pdf){:target="_blank"} 
