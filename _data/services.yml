@@ -1,14 +1,17 @@
-- date: 2024-02
+- date: 2024-10
+  content: "Area Chair of CVPR-2025."
+
+- date: 2023-10
   content: "Area Chair of CVPR-2024."
 
 - date: 2023-08-01
   content: "Local Organizing Committee and Technical Program Committee of KSEM-2023."
 
-- date: 2023-08-17
-  content: "Reviewer of IEEE Transactions on Parallel and Distributed Systems (TPDS)."
+# - date: 2023-08-17
+#   content: "Reviewer of IEEE Transactions on Parallel and Distributed Systems (TPDS)."
 
-- date: 2023-07-16
-  content: "Reviewer of ACM MM."
+# - date: 2023-07-16
+#   content: "Reviewer of ACM MM."
 
 
 # Add more news items here...
