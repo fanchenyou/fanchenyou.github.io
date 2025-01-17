@@ -11,7 +11,7 @@ permalink: /presentations/
 
 ## 2023
 
-* **Chenyou Fan**. ***"大模型智能代理 (Intro to AI Agents)."*** Presentation given in South China Normal University and [IUCVL](http://vision.soic.indiana.edu/), 2023-10. [[En]](https://fanchenyou.github.io/docs/AI_Agent_EN.pdf){:target="_blank"}[[中文]](https://fanchenyou.github.io/docs/AI_Agent.pdf){:target="_blank"}
+* **Chenyou Fan**. ***"大模型智能代理 (Intro to AI Agents)."*** Presentation given in South China Normal University and [IUCVL](http://vision.soic.indiana.edu/), 2023-10. [[En]](https://fanchenyou.github.io/docs/AI_Agent_EN.pdf){:target="_blank"}[[中文]](https://fanchenyou.github.io/docs/AI_Agent.pdf){:target="_blank"}[[demo]](https://drive.google.com/file/d/1GCwGhHbzErPGPXW_6Idqj8jqpAdbMC5o/view){:target="_blank"}
 * **Chenyou Fan**. ***"大模型简介 (Intro to LLMs)."*** Presentation given in South China Normal University, 2023-10. [[pdf]](https://fanchenyou.github.io/docs/llm_v2.pdf){:target="_blank"}
 
 

@@ -5,6 +5,8 @@ permalink: /teaching/
 ---
 ### Teaching in SCNU
 
+- 2024 Fall - Deep Learning
+
 - 2024 Spring - Mathematical Modeling 
 
 - 2023 Fall - Deep Learning

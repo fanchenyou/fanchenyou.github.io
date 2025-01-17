@@ -18,12 +18,12 @@ permalink: /publications/
 [[pdf]](./docs/ecai_paper.pdf){:target="_blank"} [[ppt]](./docs/ECAI_23.pdf){:target="_blank"}
 
 
-* Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  International Conference on Artificial Neural Networks, 2024. (ICANN-2024) [[pdf]](./docs/icann24.pdf){:target="_blank"}[[poster]][[video]](https://drive.google.com/file/d/1H5qZRKxVsyySubyyLug5A9nxC5CtNwyA/view?usp=drive_link)
+* Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  International Conference on Artificial Neural Networks, 2024. (ICANN-2024) [[pdf]](./docs/icann24.pdf){:target="_blank"}[[video]](https://drive.google.com/file/d/1H5qZRKxVsyySubyyLug5A9nxC5CtNwyA/view?usp=drive_link)
 
 * Tianqi Pang, Kehui Tan, Yujun Yao, Xiangyang Liu, **Chenyou Fan**, Xiaofan Zhang. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  
 International Joint Conference on Neural Networks (IJCNN-2024). [[pdf]](./docs/ijcnn24.pdf){:target="_blank"}[[code]](https://github.com/FancyAI-SCNU/REMED_IJCNN){:target="_blank"}
 
-* **Chenyou Fan**, Haiqi Jiang, Aimin Huang, and Junjie Hu. ***"Trajectory prediction with contrastive pre-training and social rank fine-tuning."*** International Conference on Neural Information Processing, 2023. (ICONIP-23). [[pdf]](./docs/iconip_trajectory_prediction.pdf){:target="_blank"}
+* **Chenyou Fan**, Haiqi Jiang, Aimin Huang, and Junjie Hu. ***"Trajectory prediction with contrastive pre-training and social rank fine-tuning."*** International Conference on Neural Information Processing, 2023. (ICONIP-23). [[pdf]](./docs/iconip_trajectory_prediction.pdf){:target="_blank"}[[code]](https://github.com/FancyAI-SCNU/SGCN-CHIP-DSIR){:target="_blank"}
 
 * Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. ***"Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[paper]]( https://arxiv.org/abs/2304.13911){:target="_blank"}
 
