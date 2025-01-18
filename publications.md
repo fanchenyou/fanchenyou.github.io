@@ -25,7 +25,7 @@ International Joint Conference on Neural Networks (IJCNN-2024). [[pdf]](./docs/i
 
 * **Chenyou Fan**, Haiqi Jiang, Aimin Huang, and Junjie Hu. ***"Trajectory prediction with contrastive pre-training and social rank fine-tuning."*** International Conference on Neural Information Processing, 2023. (ICONIP-23). [[pdf]](./docs/iconip_trajectory_prediction.pdf){:target="_blank"}[[code]](https://github.com/FancyAI-SCNU/SGCN-CHIP-DSIR){:target="_blank"}
 
-* Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. ***"Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[paper]]( https://arxiv.org/abs/2304.13911){:target="_blank"}
+* Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. ***"Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[paper]]( https://arxiv.org/abs/2304.13911){:target="_blank"}[[poster]](./docs/KSEM_23.pdf){:target="_blank"}
 
 * Junjie Hu, **Chenyou Fan**, Xiyue Guo, Liguang Zhou, Tin Lun Lam. ***"Self-supervised Single-line LiDAR Depth Completion."*** IEEE Robotics and Automation Letters (RA-L). [[paper]]( https://ieeexplore.ieee.org/document/10258421){:target="_blank"}
 
