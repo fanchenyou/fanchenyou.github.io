@@ -12,11 +12,13 @@ permalink: /publications/
 ## Selected Publicaitons
 * **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
-* Xiangyang Liu, Yi Zhu, Tianqi Pang, Kui Xue, Xiaofan Zhang, **Chenyou Fan**. ***"Medical Document Embedding Enhancement with Heterogeneous Mixture-of-Experts."***  IEEE International Conference on Bioinformatics and Biomedicine, 2024. (BIBM-2024)
+* Yi Zhu, Xiangyang Liu, Tianqi Pang, Xuncan Xiao, Xiaofan Zhang, **Chenyou Fan**.  ***"Hybrid Feature Fusion for Enhancing Medical
+Document Embedding."*** IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025. (ICASSP-2024) [[pdf]](./docs/ICASSP_2025.pdf){:target="_blank"}
+
+* Xiangyang Liu, Yi Zhu, Tianqi Pang, Kui Xue, Xiaofan Zhang, **Chenyou Fan**. ***"Medical Document Embedding Enhancement with Heterogeneous Mixture-of-Experts."***  IEEE International Conference on Bioinformatics and Biomedicine, 2024. (BIBM-2024) [[pdf]](./docs/BIBM_2024.pdf){:target="_blank"}
 
 * **Chenyou Fan**, Hengyang Lu, Aimin Huang. ***"A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting."*** European Conference on Artificial Intelligence (ECAI-2023). 
 [[pdf]](./docs/ecai_paper.pdf){:target="_blank"} [[ppt]](./docs/ECAI_23.pdf){:target="_blank"}
-
 
 * Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."***  International Conference on Artificial Neural Networks, 2024. (ICANN-2024) [[pdf]](./docs/icann24.pdf){:target="_blank"}[[video]](https://drive.google.com/file/d/1H5qZRKxVsyySubyyLug5A9nxC5CtNwyA/view?usp=drive_link)
 
@@ -25,7 +27,7 @@ International Joint Conference on Neural Networks (IJCNN-2024). [[pdf]](./docs/i
 
 * **Chenyou Fan**, Haiqi Jiang, Aimin Huang, and Junjie Hu. ***"Trajectory prediction with contrastive pre-training and social rank fine-tuning."*** International Conference on Neural Information Processing, 2023. (ICONIP-23). [[pdf]](./docs/iconip_trajectory_prediction.pdf){:target="_blank"}[[code]](https://github.com/FancyAI-SCNU/SGCN-CHIP-DSIR){:target="_blank"}
 
-* Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. ***"Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[paper]]( https://arxiv.org/abs/2304.13911){:target="_blank"}[[poster]](./docs/KSEM_23.pdf){:target="_blank"}
+* Xiangyang Liu, Tianqi Pang, **Chenyou Fan**. ***"Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[paper]]( https://arxiv.org/abs/2304.13911){:target="_blank"}[[ppt]](./docs/KSEM_23.pdf){:target="_blank"}
 
 * Junjie Hu, **Chenyou Fan**, Xiyue Guo, Liguang Zhou, Tin Lun Lam. ***"Self-supervised Single-line LiDAR Depth Completion."*** IEEE Robotics and Automation Letters (RA-L). [[paper]]( https://ieeexplore.ieee.org/document/10258421){:target="_blank"}
 
