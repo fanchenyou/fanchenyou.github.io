@@ -12,6 +12,9 @@ permalink: /publications/
 ## Selected Publicaitons
 * **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
+* 	Jingang Jiang , Yanzhao Chen , Xiangyang Liu , Haiqi jiang , **Chenyou Fan**.  ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).  
+<!-- [[pdf]](./docs/ICASSP_2025.pdf){:target="_blank"} -->
+
 * Yi Zhu, Xiangyang Liu, Tianqi Pang, Xuncan Xiao, Xiaofan Zhang, **Chenyou Fan**.  ***"Hybrid Feature Fusion for Enhancing Medical
 Document Embedding."*** IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025. (ICASSP-2024) [[pdf]](./docs/ICASSP_2025.pdf){:target="_blank"}
 

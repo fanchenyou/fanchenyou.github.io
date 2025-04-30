@@ -1,3 +1,6 @@
+- date: 2025-04-30
+  content: "One paper has been accepted in IJCAI-25."
+
 - date: 2024-12-10
   content: "One paper has been accepted in ICASSP-25."
 
@@ -20,8 +23,8 @@
 # - date: 2023-09-24
 #   content: "One journal paper has been accepted in IEEE Robotics and Automation Letters (RA-L)."
 
-- date: 2023-08-01
-  content: "Two papers have been accepted in ICONIP-2023."
+# - date: 2023-08-01
+#   content: "Two papers have been accepted in ICONIP-2023."
 
 - date: 2023-07-16
   content: "One paper has been accepted in ECAI-2023."
@@ -32,7 +35,7 @@
 - date: 2023-06-05
   content: "Our TPAMI paper has been accepted."
 
-- date: 2023-06-02
-  content: "Our KSEM-23 paper has been accepted."
+# - date: 2023-06-02
+#   content: "Our KSEM-23 paper has been accepted."
 
 # Add more news items here...
