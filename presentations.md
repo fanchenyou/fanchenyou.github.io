@@ -5,6 +5,9 @@ title: Presentations
 permalink: /presentations/
 ---
 
+## 2025
+* **Chenyou Fan**. ***"Flow Matching 简明教程 I (Tutorial on Flow Matching I)."*** Tutorial. [[pdf]](https://fanchenyou.github.io/docs/flow_matching_1.pdf){:target="_blank"}
+
 ## 2024
 * **Chenyou Fan**. ***"文生视频大模型简介 (Intro to Text-to-Video (E.g., Sora) Techniques)."*** Open Elective in South China Normal University, 2024-09. [[pdf]](https://fanchenyou.github.io/docs/t2v.pdf){:target="_blank"}
 
