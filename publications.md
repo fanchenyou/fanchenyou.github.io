@@ -12,9 +12,11 @@ permalink: /publications/
 ## Selected Publicaitons
 * **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
-* Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**.  ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2025)  [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](./docs/poster_kdd_2025.pdf){:target="_blank"}
+* Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**.  ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2025)  [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](./docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
 
-* Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi jiang, **Chenyou Fan**.  ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** 34th International Joint Conference on Artificial Intelligence. (IJCAI 2025)  [[pdf]](./docs/ijcai25.pdf){:target="_blank"}
+* Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**.  ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling withDiffusion Policy Learning."*** 33rd ACM International Conference on Multimedia. (ACM MM 2025)  [[pdf]](){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
+
+* Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi jiang, **Chenyou Fan**.  ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** 34th International Joint Conference on Artificial Intelligence. (IJCAI 2025)  [[pdf]](./docs/ijcai25.pdf){:target="_blank"} [[poster]](./docs/ijcai25_poster.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025)
 
 * Yi Zhu, Xiangyang Liu, Tianqi Pang, Xuncan Xiao, Xiaofan Zhang, **Chenyou Fan**.  ***"Hybrid Feature Fusion for Enhancing Medical
 Document Embedding."*** IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025. (ICASSP 2025) [[pdf]](./docs/ICASSP_2025.pdf){:target="_blank"}
