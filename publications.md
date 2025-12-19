@@ -19,7 +19,7 @@ permalink: /publications/
 * Rui Chen, Haiqi Jiang, Tingyu Guo, **Chenyou Fan**. ***"Can Large Language Models forecast carbon price movements? Evidence from Chinese carbon markets."*** Research in International Business and Finance,
 Volume 77, Part B, 2025. (RIBAF, JCR-Q1) [[paper]](https://www.sciencedirect.com/science/article/pii/S0275531925002077)
 
-* Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi jiang, **Chenyou Fan**.  ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** 34th International Joint Conference on Artificial Intelligence. (IJCAI 2025)  [[pdf]](./docs/ijcai25.pdf){:target="_blank"} [[poster]](./docs/ijcai25_poster.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025)
+* Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi jiang, **Chenyou Fan**.  ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** 34th International Joint Conference on Artificial Intelligence. (IJCAI 2025)  [[pdf]](https://www.ijcai.org/proceedings/2025/0610.pdf){:target="_blank"} [[poster]](./docs/ijcai25_poster.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025)
 
 * Yi Zhu, Xiangyang Liu, Tianqi Pang, Xuncan Xiao, Xiaofan Zhang, **Chenyou Fan**.  ***"Hybrid Feature Fusion for Enhancing Medical
 Document Embedding."*** IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025. (ICASSP 2025) [[pdf]](./docs/ICASSP_2025.pdf){:target="_blank"}
