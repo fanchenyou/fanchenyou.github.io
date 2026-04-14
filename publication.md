@@ -1,5 +1,5 @@
 ---
-title: Publications & Presentations
+# title: Publications & Presentations
 layout: publication
 description: Publications, patents, and presentations
 permalink: "/publication/"
