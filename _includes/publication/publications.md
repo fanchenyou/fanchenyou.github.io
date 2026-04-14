@@ -12,9 +12,9 @@
 
 - Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi Jiang, **Chenyou Fan**. ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** 34th International Joint Conference on Artificial Intelligence. (IJCAI 2025) [[pdf]](https://www.ijcai.org/proceedings/2025/0610.pdf){:target="_blank"} [[poster]](./docs/ijcai25_poster.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025)
 
-- Yi Zhu, Xiangyang Liu, Tianqi Pang, Xuncan Xiao, Xiaofan Zhang, **Chenyou Fan**. ***"Hybrid Feature Fusion for Enhancing Medical Document Embedding."*** IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025. (ICASSP 2025) [[pdf]](fanchenyou.github.io/docs/ICASSP_2025.pdf){:target="_blank"}
+- Yi Zhu, Xiangyang Liu, Tianqi Pang, Xuncan Xiao, Xiaofan Zhang, **Chenyou Fan**. ***"Hybrid Feature Fusion for Enhancing Medical Document Embedding."*** IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025. (ICASSP 2025) [[pdf]](https://fanchenyou.github.io/docs/ICASSP_2025.pdf){:target="_blank"}
 
-- Xiangyang Liu, Yi Zhu, Tianqi Pang, Kui Xue, Xiaofan Zhang, **Chenyou Fan**. ***"Medical Document Embedding Enhancement with Heterogeneous Mixture-of-Experts."*** IEEE International Conference on Bioinformatics and Biomedicine, 2024. (BIBM 2024) [[pdf]](./docs/BIBM_2024.pdf){:target="_blank"}
+- Xiangyang Liu, Yi Zhu, Tianqi Pang, Kui Xue, Xiaofan Zhang, **Chenyou Fan**. ***"Medical Document Embedding Enhancement with Heterogeneous Mixture-of-Experts."*** IEEE International Conference on Bioinformatics and Biomedicine, 2024. (BIBM 2024) [[pdf]](https://fanchenyou.github.io/docs/BIBM_2024.pdf){:target="_blank"}
 
 - **Chenyou Fan**, Hengyang Lu, Aimin Huang. ***"A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting."*** European Conference on Artificial Intelligence (ECAI 2023). [[pdf]](./docs/ecai_paper.pdf){:target="_blank"} [[ppt]](./docs/ECAI_23.pdf){:target="_blank"}
 
