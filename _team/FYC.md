@@ -6,7 +6,7 @@ jobtitle: "Associate Professor"
 personal_url: "https://fanchenyou.github.io/"
 group: "leadership"
 research_focus: "Computer vision, Multi-Agent Learning, and Multimodal Learning"
-summary: "Leading the lab’s research agenda in visual intelligence, trustworthy learning systems, and interdisciplinary AI collaborations."
+summary: "Leading the lab’s research  in visual intelligence, multi-agent learning systems, and interdisciplinary AI collaborations."
 weight: 1
 ---
 
