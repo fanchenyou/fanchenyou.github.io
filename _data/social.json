@@ -1,32 +1,32 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/FancyAI-SCNU",
     "image": "images/social/github.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    // "link": "https://twitter.com/zerostaticio",
     "image": "images/social/twitter.svg"
   },
   {
       "name": "Facebook",
-      "link": "https://facebook.com",
+    //   "link": "https://facebook.com",
       "image": "images/social/facebook.svg"
   },
   {
       "name": "Email",
-      "link": "mailto:ekyllserif@example.com ",
+      "link": "fanchenyou#scnu.edu.cn",
       "image": "images/social/email.svg"
   },
   {
       "name": "Instagram",
-      "link": "https://instagram.com",
+    //   "link": "https://instagram.com",
       "image": "images/social/instagram.svg"
   },
   {
       "name": "Discord",
-      "link": "https://discord.com",
+    //   "link": "https://discord.com",
       "image": "images/social/discord.svg"
   }
 
