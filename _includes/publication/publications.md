@@ -4,9 +4,9 @@
 
 - **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
-- Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2025) [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](./docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
+- Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2025) [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](/docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
 
-- Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** 33rd ACM International Conference on Multimedia. (ACM MM 2025) [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
+- Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** ACM International Conference on Multimedia. (ACM MM 2025) [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
 
 - Rui Chen, Haiqi Jiang, Tingyu Guo, **Chenyou Fan**. ***"Can Large Language Models forecast carbon price movements? Evidence from Chinese carbon markets."*** Research in International Business and Finance, Volume 77, Part B, 2025. (RIBAF, JCR-Q1) [[paper]](https://www.sciencedirect.com/science/article/pii/S0275531925002077)
 
