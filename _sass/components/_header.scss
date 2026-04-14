@@ -1,0 +1,31 @@
+.header {
+  color: $primary;
+  background: rgba(255, 250, 248, 0.94);
+  backdrop-filter: blur(12px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(122, 15, 22, 0.09);
+  padding: 14px 0;
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+  }
+  &.header-absolute {
+    position: sticky;
+    z-index: 30;
+    width: 100%;
+  }
+}
+.lock-scroll {
+  .header {
+    &.header-absolute {
+      position: sticky;
+    }
+  }
+}

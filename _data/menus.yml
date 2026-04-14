@@ -1,0 +1,30 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Team"
+    url: "/team/"
+    weight: 2
+  - name: "Publication"
+    url: "/publication/"
+    weight: 3
+  - name: "Topics"
+    url: "/topics/"
+    weight: 4
+  - name: "Gallery"
+    url: "/gallery/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Team"
+    url: "/team/"
+    weight: 2
+  - name: "Topics"
+    url: "/topics/"
+    weight: 3
+  - name: "Publication"
+    url: "/publication/"
+    weight: 4

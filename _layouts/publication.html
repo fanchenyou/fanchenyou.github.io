@@ -1,0 +1,40 @@
+---
+layout: default
+bodyClass: "page-basic"
+---
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-10 col-lg-9">
+      <div class="service service-single publication-page" id="publication-top">
+        <h1 class="title">{{ page.title }}</h1>
+        <div class="content publication-page-intro">{{ content }}</div>
+
+        <nav class="publication-jump-nav" aria-label="Publication sections">
+          <a class="publication-jump-link" href="#publications">Publications</a>
+          <a class="publication-jump-link" href="#patents">Patents</a>
+          <a class="publication-jump-link" href="#presentations">Presentations</a>
+        </nav>
+
+        <div class="publication-sections">
+          <section class="publication-section-card" id="publications">
+            {% capture publications_content %}{% include publication/publications.md %}{% endcapture %}
+            <div class="content">{{ publications_content | markdownify }}</div>
+          </section>
+
+          <section class="publication-section-card compact" id="patents">
+            {% capture patents_content %}{% include publication/patents.md %}{% endcapture %}
+            <div class="content">{{ patents_content | markdownify }}</div>
+          </section>
+
+          <section class="publication-section-card compact" id="presentations">
+            {% capture presentations_content %}{% include publication/presentations.md %}{% endcapture %}
+            <div class="content">{{ presentations_content | markdownify }}</div>
+          </section>
+        </div>
+
+        <a class="publication-back-to-top" href="#publication-top" aria-label="Back to top">↑ Top</a>
+      </div>
+    </div>
+  </div>
+</div>

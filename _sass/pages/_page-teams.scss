@@ -1,0 +1,123 @@
+.page-teams {
+  background: linear-gradient(180deg, #fbf6f4 0%, #fffaf8 100%);
+
+  .team-hero {
+    padding: 72px 0 20px;
+
+    h1 {
+      margin-bottom: 16px;
+    }
+
+    p {
+      font-size: 18px;
+    }
+  }
+
+  .team-directory {
+    padding-top: 20px;
+  }
+
+  .team-group-block {
+    margin-top: 36px;
+  }
+
+  .team-group-header {
+    margin-bottom: 22px;
+
+    h2 {
+      color: #7a0f16;
+      margin-bottom: 0;
+    }
+  }
+
+  .team-group-kicker {
+    margin-bottom: 8px;
+    color: #954d42;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+  .team-summary {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 16px;
+    height: 100%;
+    padding: 22px;
+    border-radius: 22px;
+    background: rgba(255, 255, 255, 0.88);
+    border: 1px solid rgba(122, 15, 22, 0.08);
+    box-shadow: 0 18px 34px rgba(122, 15, 22, 0.07);
+
+    .team-image {
+      height: 72px;
+      width: 72px;
+      border-radius: 50%;
+      overflow: hidden;
+      flex-shrink: 0;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    .team-meta {
+      flex: 1;
+      min-width: 0;
+
+      h3 {
+        margin: 0 0 6px;
+        font-size: 24px;
+      }
+
+      a {
+        color: #7a0f16;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      p {
+        margin: 0;
+        color: #954d42;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-size: 12px;
+        font-weight: 700;
+      }
+    }
+
+    .team-content {
+      flex: 1 0 100%;
+      margin-top: 4px;
+      color: #6a5959;
+    }
+  }
+
+  .team-summary-large {
+    padding: 28px;
+
+    .team-image {
+      width: 96px;
+      height: 96px;
+    }
+  }
+
+  .member-card,
+  .alumni-card {
+    min-height: 180px;
+  }
+
+  .team-note {
+    display: inline-block;
+    margin-top: 10px;
+    color: #6a5959;
+    line-height: 1.5;
+  }
+}

@@ -1,0 +1,96 @@
+---
+layout: default
+bodyClass: "page-teams"
+---
+
+<div class="team-hero">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8 text-center">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container team-directory pb-6 pb-md-10">
+  {% assign leadership = site.team | where: 'group', 'leadership' | sort: 'weight' %}
+  {% assign current_members = site.team | where: 'group', 'current-members' | sort: 'weight' %}
+  {% assign alumni = site.team | where: 'group', 'graduated-alumni' | sort: 'weight' %}
+
+  <section class="team-group-block">
+    <div class="team-group-header">
+      <p class="team-group-kicker">People</p>
+      <h2>Leadership</h2>
+    </div>
+    <div class="row g-4">
+      {% for member in leadership %}
+      <div class="col-12 col-md-6">
+        <div class="team team-summary team-summary-large">
+          {% if member.image %}
+          <div class="team-image">
+            <img width="96" height="96" alt="{{ member.title }}" class="img-fluid" src="{{ member.image | relative_url }}" />
+          </div>
+          {% endif %}
+          <div class="team-meta">
+            <h3 class="team-name"><a href="{{ member.personal_url | default: member.url | relative_url }}" {% if member.personal_url %}target="_blank" rel="noreferrer"{% endif %}>{{ member.title }}</a></h3>
+            <p class="team-description">{{ member.jobtitle }}</p>
+            <span class="team-note">{{ member.research_focus }}</span>
+          </div>
+          <div class="team-content">{{ member.summary }}</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="team-group-block">
+    <div class="team-group-header">
+      <p class="team-group-kicker">People</p>
+      <h2>Current Members</h2>
+    </div>
+    <div class="row g-4">
+      {% for member in current_members %}
+      <div class="col-12 col-md-6 col-xl-4">
+        <div class="team team-summary member-card">
+          {% if member.image %}
+          <div class="team-image">
+            <img width="72" height="72" alt="{{ member.title }}" class="img-fluid" src="{{ member.image | relative_url }}" />
+          </div>
+          {% endif %}
+          <div class="team-meta">
+            <h3 class="team-name"><a href="{{ member.personal_url | default: member.url | relative_url }}" {% if member.personal_url %}target="_blank" rel="noreferrer"{% endif %}>{{ member.title }}</a></h3>
+            <p class="team-description">{{ member.jobtitle }}</p>
+            <span class="team-note">{{ member.research_focus }}</span>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="team-group-block">
+    <div class="team-group-header">
+      <p class="team-group-kicker">People</p>
+      <h2>Graduated Alumni</h2>
+    </div>
+    <div class="row g-4">
+      {% for member in alumni %}
+      <div class="col-12 col-md-6 col-xl-4">
+        <div class="team team-summary member-card alumni-card">
+          {% if member.image %}
+          <div class="team-image">
+            <img width="72" height="72" alt="{{ member.title }}" class="img-fluid" src="{{ member.image | relative_url }}" />
+          </div>
+          {% endif %}
+          <div class="team-meta">
+            <h3 class="team-name"><a href="{{ member.personal_url | default: member.url | relative_url }}" {% if member.personal_url %}target="_blank" rel="noreferrer"{% endif %}>{{ member.title }}</a></h3>
+            <p class="team-description">{{ member.jobtitle }}</p>
+            <span class="team-note">{{ member.current_position }}</span>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+</div>
