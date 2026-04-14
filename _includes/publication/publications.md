@@ -4,6 +4,11 @@
 
 - **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
+- **Chenyou Fan**, Heng Huang. ***"Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering."*** IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR'19, 25.2% acceptance rate). [[paper]](https://arxiv.org/pdf/1904.04357.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/HME-VideoQA){:target="_blank"}
+
+- **Chenyou Fan**, Heng Huang. ***"Multi-Horizon Time Series Forecasting with Temporal Attention Learning."*** SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD'19, 20% acceptance rate). [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330662){:target="_blank"}
+
+
 - Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2025) [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](/docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
 
 - Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** ACM International Conference on Multimedia. (ACM MM 2025) [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
@@ -28,7 +33,7 @@
 
 - Junjie Hu, **Chenyou Fan**, Xiyue Guo, Liguang Zhou, Tin Lun Lam. ***"Self-supervised Single-line LiDAR Depth Completion."*** IEEE Robotics and Automation Letters (RA-L). [[paper]](https://ieeexplore.ieee.org/document/10258421){:target="_blank"}
 
-- Tianqi Pang, Kehui Tan, **Chenyou Fan**. ***"Carbon Price Forecasting with Quantile Regression and Feature Selection."*** International Conference on Data Mining and Knowledge Discovery (DMKD-23). [[paper]](https://arxiv.org/abs/2305.03224){:target="_blank"}
+<!-- - Tianqi Pang, Kehui Tan, **Chenyou Fan**. ***"Carbon Price Forecasting with Quantile Regression and Feature Selection."*** International Conference on Data Mining and Knowledge Discovery (DMKD-23). [[paper]](https://arxiv.org/abs/2305.03224){:target="_blank"} -->
 
 - Heng-yang Lu, **Chenyou Fan**, others. ***"Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications."*** International Conference on Computational Linguistics (COLING-22).
 
@@ -39,10 +44,6 @@
 - Tianyi Lin, **Chenyou Fan** (co-first), Nhat Ho, Marco Cuturi, Michael I. Jordan. ***"Projection Robust Wasserstein Distance and Riemannian Optimization."*** Conference on Neural Information Processing Systems (NeurIPS'20, spotlight, 20% acceptance rate, 3% spotlight rate). [[pdf]](https://arxiv.org/abs/2006.07458){:target="_blank"} [[code]](https://github.com/fanchenyou/PRW){:target="_blank"}
 
 - **Chenyou Fan**, Ping Liu. ***"Federated Generative Adversarial Learning."*** Chinese Conference on Pattern Recognition and Computer Vision (PRCV'20). [[paper]](https://arxiv.org/abs/2005.03793){:target="_blank"}
-
-- **Chenyou Fan**, Heng Huang. ***"Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering."*** IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR'19, 25.2% acceptance rate). [[paper]](https://arxiv.org/pdf/1904.04357.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/HME-VideoQA){:target="_blank"}
-
-- **Chenyou Fan**, Heng Huang. ***"Multi-Horizon Time Series Forecasting with Temporal Attention Learning."*** SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD'19, 20% acceptance rate). [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330662){:target="_blank"}
 
 - **Chenyou Fan**, Zehua Zhang, David J. Crandall. ***"DeepDiary: Lifelogging Image Captioning and Summarization."*** Journal of Visual Communication and Image Representation, 2018. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1047320318301032){:target="_blank"}
 
@@ -64,7 +65,7 @@
 
 - **Chenyou Fan**, Jianwei Huang. ***"Federated Few-Shot Learning with Adversarial Learning."*** 19th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt '21). [[pdf]](https://arxiv.org/abs/2104.00365){:target="_blank"}
 
-- Hengyang Lu, **Chenyou Fan**. ***"Few-shot COVID-19 Rumor Detection for Online Social Media."*** PeerJ Computer Science. [[pdf]](https://peerj.com/articles/cs-688/){:target="_blank"}
+<!-- - Hengyang Lu, **Chenyou Fan**. ***"Few-shot COVID-19 Rumor Detection for Online Social Media."*** PeerJ Computer Science. [[pdf]](https://peerj.com/articles/cs-688/){:target="_blank"} -->
 
 - Tianyi Lin, **Chenyou Fan**, Mengdi Wang, M.I. Jordan. ***"Improved Sample Complexity for Stochastic Compositional Variance Reduced Gradient."*** American Control Conference 2020 (ACC'20). [[pdf]](https://arxiv.org/abs/1806.00458){:target="_blank"}
 

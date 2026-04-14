@@ -1,5 +1,5 @@
 ---
-title: "Prof. Fan Chenyou"
+title: "Associate Prof. Fan Chenyou (范晨悠)"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/FCY.jpg"
 jobtitle: "Principal Investigator"
