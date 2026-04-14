@@ -2,20 +2,20 @@
 
 ### Selected Publications
 
-- **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. . [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
+- **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
 - **Chenyou Fan**, Heng Huang. ***"Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering."*** IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[paper]](https://arxiv.org/pdf/1904.04357.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/HME-VideoQA){:target="_blank"}
 
 - **Chenyou Fan**, Heng Huang. ***"Multi-Horizon Time Series Forecasting with Temporal Attention Learning."*** SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019. [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330662){:target="_blank"}
 
 
-- Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025 [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](/docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
+- Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025. [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](/docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
 
-- Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** ACM International Conference on Multimedia. (ACM MM 2025) [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
+- Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** ACM International Conference on Multimedia (MM), 2025. [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
 
 - Rui Chen, Haiqi Jiang, Tingyu Guo, **Chenyou Fan**. ***"Can Large Language Models forecast carbon price movements? Evidence from Chinese carbon markets."*** Research in International Business and Finance, Volume 77, Part B, 2025. (RIBAF, JCR-Q1) [[paper]](https://www.sciencedirect.com/science/article/pii/S0275531925002077)
 
-- Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi Jiang, **Chenyou Fan**. ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** 34th International Joint Conference on Artificial Intelligence. (IJCAI 2025) [[pdf]](https://www.ijcai.org/proceedings/2025/0610.pdf){:target="_blank"} [[poster]](/assets/docs/ijcai25_poster.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025)
+- Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi Jiang, **Chenyou Fan**. ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** International Joint Conference on Artificial Intelligence (IJCAI), 2025. [[pdf]](https://www.ijcai.org/proceedings/2025/0610.pdf){:target="_blank"} [[poster]](/assets/docs/ijcai25_poster.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025)
 
 - Yi Zhu, Xiangyang Liu, Tianqi Pang, Xuncan Xiao, Xiaofan Zhang, **Chenyou Fan**. ***"Hybrid Feature Fusion for Enhancing Medical Document Embedding."*** IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025. (ICASSP 2025) [[pdf]](/assets/docs/ICASSP_2025.pdf){:target="_blank"}
 
