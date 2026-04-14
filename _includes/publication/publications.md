@@ -53,21 +53,21 @@
 
 - AJ Piergiovanni, **Chenyou Fan**, and Michael S. Ryoo. ***"Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters."*** the 31st AAAI Conference on Artificial Intelligence (AAAI), 2017. [[paper]](http://arxiv.org/abs/1605.08140){:target="_blank"}
 
-### Tutorials
+<!-- ### Tutorials -->
 
-- **Chenyou Fan**. ***"Survey of Convolutional Neural Network."*** [[pdf]](https://fanchenyou.github.io/docs/cnn_survey.pdf){:target="_blank"}
 
-### More Research Collaboration Work
+
+<!-- ### More Research Collaboration Work
 
 - Junjie Hu, **Chenyou Fan**, Hualie Jiang, Xiyue Guo, Yuan Gao, Xiangyong Lu, Tin Lun Lam. ***"Boosting LightWeight Depth Estimation Via Knowledge Distillation."*** International Conference on Knowledge Science, Engineering and Management (KSEM-23). [[pdf]](https://arxiv.org/abs/2105.06143){:target="_blank"}
 
 - Junjie Hu, Chenyu Bao, Mete Ozay, **Chenyou Fan**, Qing Gao, Honghai Liu, Tin Lun Lam. ***"Deep Depth Completion from Extremely Sparse Data: A Survey."*** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022-12. [[pdf]](https://arxiv.org/abs/2205.05335){:target="_blank"}
 
-- **Chenyou Fan**, Jianwei Huang. ***"Federated Few-Shot Learning with Adversarial Learning."*** 19th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt '21). [[pdf]](https://arxiv.org/abs/2104.00365){:target="_blank"}
+- **Chenyou Fan**, Jianwei Huang. ***"Federated Few-Shot Learning with Adversarial Learning."*** 19th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt '21). [[pdf]](https://arxiv.org/abs/2104.00365){:target="_blank"} -->
 
 <!-- - Hengyang Lu, **Chenyou Fan**. ***"Few-shot COVID-19 Rumor Detection for Online Social Media."*** PeerJ Computer Science. [[pdf]](https://peerj.com/articles/cs-688/){:target="_blank"} -->
 
-- Tianyi Lin, **Chenyou Fan**, Mengdi Wang, M.I. Jordan. ***"Improved Sample Complexity for Stochastic Compositional Variance Reduced Gradient."*** American Control Conference 2020 (ACC'20). [[pdf]](https://arxiv.org/abs/1806.00458){:target="_blank"}
+<!-- - Tianyi Lin, **Chenyou Fan**, Mengdi Wang, M.I. Jordan. ***"Improved Sample Complexity for Stochastic Compositional Variance Reduced Gradient."*** American Control Conference 2020 (ACC'20). [[pdf]](https://arxiv.org/abs/1806.00458){:target="_blank"}
 
 - Mingze Xu, **Chenyou Fan**, John Paden, Geoffrey Fox, and David J. Crandall. ***"Multi-Task Spatiotemporal Neural Networks for Structured Surface Reconstruction."*** IEEE Winter Conference on Applications of Computer Vision 2018 (WACV'18). [[pdf]](https://arxiv.org/pdf/1801.03986.pdf){:target="_blank"}
 
@@ -75,4 +75,4 @@
 
 - **Chenyou Fan**, Jangwon Lee and Michael S. Ryoo. ***"Forecasting Hand and Object Locations in Future Frames."*** European Conference Workshop on Anticipating Human Behavior (AHB@ECCV), August 2018. [[pdf]](https://arxiv.org/abs/1705.07328){:target="_blank"}
 
-- **Chenyou Fan** and David J. Crandall. ***"Deepdiary: Automatically Captioning Lifelogging Image Streams."*** European Conference Workshop on Egocentric Perception, Interaction, and Computing (EPIC@ECCV), October 2016. [[pdf]](http://vision.soic.indiana.edu/projects/deepdiary-automatically-captioning-lifelogging-image-streams/){:target="_blank"}
+- **Chenyou Fan** and David J. Crandall. ***"Deepdiary: Automatically Captioning Lifelogging Image Streams."*** European Conference Workshop on Egocentric Perception, Interaction, and Computing (EPIC@ECCV), October 2016. [[pdf]](http://vision.soic.indiana.edu/projects/deepdiary-automatically-captioning-lifelogging-image-streams/){:target="_blank"} -->

@@ -16,3 +16,6 @@
 ### 2022
 
 - **Chenyou Fan**. ***"Few-shot Learning in views of Meta, Metric and Prompt Learning."*** Seminar of School of Artificial Intelligence, Nanhai Campus, South China Normal University, 2022-10. [[pdf]](https://fanchenyou.github.io/docs/FSL.pdf){:target="_blank"}
+
+### 2016
+- **Chenyou Fan**. ***"Survey of Convolutional Neural Network."*** [[pdf]](https://fanchenyou.github.io/docs/cnn_survey.pdf){:target="_blank"}
