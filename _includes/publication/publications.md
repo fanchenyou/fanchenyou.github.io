@@ -4,7 +4,7 @@
 
 - **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. (TPAMI-23). [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
-- Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2025) [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](/assets/docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
+- Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2025) [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](/docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
 
 - Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** ACM International Conference on Multimedia. (ACM MM 2025) [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
 
@@ -14,11 +14,11 @@
 
 - Yi Zhu, Xiangyang Liu, Tianqi Pang, Xuncan Xiao, Xiaofan Zhang, **Chenyou Fan**. ***"Hybrid Feature Fusion for Enhancing Medical Document Embedding."*** IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025. (ICASSP 2025) [[pdf]](/assets/docs/ICASSP_2025.pdf){:target="_blank"}
 
-- Xiangyang Liu, Yi Zhu, Tianqi Pang, Kui Xue, Xiaofan Zhang, **Chenyou Fan**. ***"Medical Document Embedding Enhancement with Heterogeneous Mixture-of-Experts."*** IEEE International Conference on Bioinformatics and Biomedicine, 2024. (BIBM 2024) [[pdf]](/assets/docs/BIBM_2024.pdf){:target="_blank"}
+- Xiangyang Liu, Yi Zhu, Tianqi Pang, Kui Xue, Xiaofan Zhang, **Chenyou Fan**. ***"Medical Document Embedding Enhancement with Heterogeneous Mixture-of-Experts."*** IEEE International Conference on Bioinformatics and Biomedicine, 2024. (BIBM 2024) [[pdf]](/docs/BIBM_2024.pdf){:target="_blank"}
 
-- **Chenyou Fan**, Hengyang Lu, Aimin Huang. ***"A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting."*** European Conference on Artificial Intelligence (ECAI 2023). [[pdf]](./docs/ecai_paper.pdf){:target="_blank"} [[ppt]](/docs/ECAI_23.pdf){:target="_blank"}
+- **Chenyou Fan**, Hengyang Lu, Aimin Huang. ***"A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting."*** European Conference on Artificial Intelligence (ECAI 2023). [[pdf]](/assets/docs/ecai_paper.pdf){:target="_blank"} [[ppt]](/assets/docs/ECAI_23.pdf){:target="_blank"}
 
-- Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."*** International Conference on Artificial Neural Networks, 2024. (ICANN 2024) [[pdf]](./docs/icann24.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/Meta-DTS) [[video]](https://drive.google.com/file/d/1H5qZRKxVsyySubyyLug5A9nxC5CtNwyA/view?usp=drive_link)
+- Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."*** International Conference on Artificial Neural Networks, 2024. (ICANN 2024) [[pdf]](/assets/docs/icann24.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/Meta-DTS) [[video]](https://drive.google.com/file/d/1H5qZRKxVsyySubyyLug5A9nxC5CtNwyA/view?usp=drive_link)
 
 - Tianqi Pang, Kehui Tan, Yujun Yao, Xiangyang Liu, **Chenyou Fan**, Xiaofan Zhang. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."*** International Joint Conference on Neural Networks (IJCNN 2024). [[pdf]](/assets/docs/ijcnn24.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/REMED_IJCNN){:target="_blank"}
 
@@ -32,9 +32,9 @@
 
 - Heng-yang Lu, **Chenyou Fan**, others. ***"Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications."*** International Conference on Computational Linguistics (COLING-22).
 
-- **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Private Semi-Supervised Federated Learning."*** 31st International Joint Conference on Artificial Intelligence (IJCAI'22, 15% acceptance rate). [[pdf]](https://www.ijcai.org/proceedings/2022/279){:target="_blank"}
+- **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Private Semi-Supervised Federated Learning."*** International Joint Conference on Artificial Intelligence (IJCAI'22, 15% acceptance rate). [[pdf]](https://www.ijcai.org/proceedings/2022/279){:target="_blank"}
 
-- **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception."*** 29th ACM International Conference on Multimedia 2021 (ACM MM'21, 27.9% acceptance rate). [[pdf]](/assets/docs/fs_map_1.pdf){:target="_blank"} [[poster]](./docs/mm21_poster.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/fs-map-project){:target="_blank"}
+- **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception."*** 29th ACM International Conference on Multimedia 2021 (ACM MM'21, 27.9% acceptance rate). [[pdf]](/assets/docs/fs_map_1.pdf){:target="_blank"} [[poster]](/assets/docs/mm21_poster.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/fs-map-project){:target="_blank"}
 
 - Tianyi Lin, **Chenyou Fan** (co-first), Nhat Ho, Marco Cuturi, Michael I. Jordan. ***"Projection Robust Wasserstein Distance and Riemannian Optimization."*** Conference on Neural Information Processing Systems (NeurIPS'20, spotlight, 20% acceptance rate, 3% spotlight rate). [[pdf]](https://arxiv.org/abs/2006.07458){:target="_blank"} [[code]](https://github.com/fanchenyou/PRW){:target="_blank"}
 
@@ -50,7 +50,7 @@
 
 - **Chenyou Fan**, Jangwon Lee, Mingze Xu, K.K. Singh, Y.J. Lee, David J. Crandall, Michael S. Ryoo. ***"Identifying first-person camera wearers in third-person videos."*** IEEE Conference on Computer Vision and Pattern Recognition 2017 (CVPR'17, 29.0% acceptance rate). [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_Identifying_First-Person_Camera_CVPR_2017_paper.pdf){:target="_blank"} [[data & project page]](http://vision.soic.indiana.edu/identifying-1st-3rd/){:target="_blank"}
 
-- AJ Piergiovanni, **Chenyou Fan**, and Michael S. Ryoo. ***"Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters."*** the 31st AAAI Conference on Artificial Intelligence (AAAI), February 2017. [[paper]](http://arxiv.org/abs/1605.08140){:target="_blank"}
+- AJ Piergiovanni, **Chenyou Fan**, and Michael S. Ryoo. ***"Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters."*** the 31st AAAI Conference on Artificial Intelligence (AAAI), 2017. [[paper]](http://arxiv.org/abs/1605.08140){:target="_blank"}
 
 ### Tutorials
 
