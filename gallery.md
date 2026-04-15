@@ -21,7 +21,7 @@ permalink: "/gallery/"
     <img src="{{ '/images/team_pic/2025-04-27-03.jpg' | relative_url }}" alt="FancyAI Lab campus activity" />
     <figcaption>
       <span>Lab Activity</span>
-      <strong>毕业生和老师(Graduates and Administrative staff)</strong>
+      <strong>合照</strong>
     </figcaption>
   </figure>
   <!-- <figure class="gallery-feature-card">
@@ -38,7 +38,7 @@ permalink: "/gallery/"
     <img src="{{ '/images/team_pic/2025-04-27-01.jpg' | relative_url }}" alt="FancyAI Lab team photo one" />
   </figure>
   <figure class="gallery-tile">
-    <img src="{{ '/images/team_pic/2025-04-27-02.jpg' | relative_url }}" alt="FancyAI Lab team photo one" />
+    <img src="{{ '/images/team_pic/2025-04-27-02.jpg' | relative_url }}" alt="Graduates and Administrative staff" />
   </figure>
   <figure class="gallery-tile">
     <img src="{{ '/images/team_pic/2025-05-17.jpg' | relative_url }}" alt="FancyAI undergraduate students" />
