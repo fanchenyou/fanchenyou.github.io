@@ -5,7 +5,7 @@ image: "images/team/ZhangJiaming.png"
 jobtitle: "PhD Candidate"
 # personal_url: "https://example.com/emma"
 group: "current-members"
-# current_position: "Assistant Professor, AI Institute"
+summary: "大语言模型的不确定性量化。Uncertainty quantification of LLMs."
 weight: 3
 ---
 

@@ -5,7 +5,7 @@ image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Master Alumna"
 # personal_url: "https://example.com/emma"
 group: "graduated-alumni"
-current_position: "Software Engineer"
+current_position: "研发工程师"
 weight: 7
 ---
 

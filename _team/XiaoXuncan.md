@@ -4,7 +4,7 @@ date: 2026-04-13T10:47:58+08:00
 image: "images/team/XiaoXuncan.png"
 jobtitle: "Master's Student"
 group: "current-members"
-summary: "研究方向为时间序列生成建模，重点探索扩散模型在序列数据生成中的应用与改进。"
+summary: "时间序列生成建模。Time series generation"
 weight: 2023
 ---
 
