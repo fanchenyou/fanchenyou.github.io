@@ -11,7 +11,7 @@ permalink: "/gallery/"
 
 <div class="gallery-featured-grid">
   <figure class="gallery-feature-card large">
-    <img src="{{ '/images/1686104359209136.jpg' | relative_url }}" alt="FancyAI Lab group photo" />
+    <img src="{{ '/images/team_pic/2025-04-27-01.jpg' | relative_url }}" alt="FancyAI Lab group photo" />
     <figcaption>
       <span>Group Photo</span>
       <strong>FancyAI Lab annual team portrait</strong>
@@ -24,13 +24,13 @@ permalink: "/gallery/"
       <strong>2022级毕业合照</strong>
     </figcaption>
   </figure>
-  <figure class="gallery-feature-card">
+  <!-- <figure class="gallery-feature-card">
     <img src="{{ '/images/1686104359209136.jpg' | relative_url }}" alt="FancyAI Lab members together" />
     <figcaption>
       <span>Research Community</span>
       <strong>A collaborative and supportive team culture</strong>
     </figcaption>
-  </figure>
+  </figure> -->
 </div>
 
 <div class="gallery-masonry-grid">
@@ -40,7 +40,7 @@ permalink: "/gallery/"
   <figure class="gallery-tile">
     <img src="{{ '/images/team_pic/2025-04-27-02.jpg' | relative_url }}" alt="FancyAI Lab team photo one" />
   </figure>
-  <figure class="gallery-tile">
+  <!-- <figure class="gallery-tile">
     <img src="{{ '/images/1686104359209136.jpg' | relative_url }}" alt="FancyAI Lab team photo three" />
   </figure>
   <figure class="gallery-tile">
@@ -51,5 +51,5 @@ permalink: "/gallery/"
   </figure>
   <figure class="gallery-tile">
     <img src="{{ '/images/1686104359209136.jpg' | relative_url }}" alt="FancyAI Lab team photo six" />
-  </figure>
+  </figure> -->
 </div>
