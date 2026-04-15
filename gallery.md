@@ -14,14 +14,14 @@ permalink: "/gallery/"
     <img src="{{ '/images/team_pic/2025-04-27-01.jpg' | relative_url }}" alt="FancyAI Lab group photo" />
     <figcaption>
       <span>Group Photo</span>
-      <strong>FancyAI Lab annual team portrait</strong>
+      <strong>2022级毕业合照(Master graduates)</strong>
     </figcaption>
   </figure>
   <figure class="gallery-feature-card tall">
     <img src="{{ '/images/team_pic/2025-04-27-03.jpg' | relative_url }}" alt="FancyAI Lab campus activity" />
     <figcaption>
       <span>Lab Activity</span>
-      <strong>2022级毕业合照</strong>
+      <strong>毕业生和老师(Graduates and Administrative staff)</strong>
     </figcaption>
   </figure>
   <!-- <figure class="gallery-feature-card">
