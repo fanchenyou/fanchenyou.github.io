@@ -4,6 +4,7 @@ date: 2026-04-13T10:47:58+08:00
 image: "images/team/Chen_Jiepan.png"
 jobtitle: "Master's Student"
 group: "current-members"
+summary: "多模态大模型与效率增强。 Multimodal LLMs and efficiency enhancement."
 weight: 2024
 ---
 
