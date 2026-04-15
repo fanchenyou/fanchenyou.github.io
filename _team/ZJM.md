@@ -1,7 +1,7 @@
 ---
-title: "PhD Zhang Jiaming 张家铭"
+title: "Zhang Jiaming 张家铭"
 date: 2026-04-13T10:47:58+08:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/ZhangJiaming"
 jobtitle: "PhD Candidate"
 # personal_url: "https://example.com/emma"
 group: "current-members"
@@ -9,4 +9,5 @@ group: "current-members"
 weight: 3
 ---
 
-Jiaming is working on Natural Language Understanding with OOD detection and Trustworthy Answering with confidence detection. He obtained his M.S. from Jiangnan University.
+张家铭的研究方向是大语言模型的不确定性量化。
+He is working on uncertainty quantification of LLMs.
