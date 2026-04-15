@@ -7,5 +7,5 @@ group: "current-members"
 weight: 2025
 ---
 
-研究方向为多模态理解与生成。
 He is working on multi-modal understanding and generation.
+研究方向为多模态理解与生成。

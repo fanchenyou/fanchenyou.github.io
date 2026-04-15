@@ -1,5 +1,5 @@
 ---
-title: "Mr. Liu Xiangyang 刘向阳"
+title: "Mr. 刘向阳 Liu Xiangyang"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Master Alumna"
@@ -9,4 +9,4 @@ current_position: "Software Engineer"
 weight: 7
 ---
 
-Xiangyang completed his master research on Nature Language Understanding and LLMs.
+He completed his master research on Nature Language Understanding and LLMs.

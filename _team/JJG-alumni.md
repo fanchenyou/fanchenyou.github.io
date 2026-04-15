@@ -1,5 +1,5 @@
 ---
-title: "Mr. Jiang Jingang 江金钢"
+title: "Mr. 江金钢 Jiang Jingang "
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/JiangJingang.jpg"
 jobtitle: "Master Alumna"
