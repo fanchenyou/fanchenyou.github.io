@@ -1,5 +1,5 @@
 ---
-title: "Dr. Fan Chenyou (范晨悠)"
+title: "Dr. 范晨悠 Fan Chenyou"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/FCY.jpg"
 jobtitle: "Associate Professor"
@@ -10,4 +10,4 @@ summary: "Leading the lab’s research  in visual intelligence, multi-agent lear
 weight: 1
 ---
 
-Professor Fan Chenyou leads the Intelligent Systems Lab and supervises projects on computer vision, multimodal reasoning, and robust learning systems.
+He leads the Intelligent Systems Lab and supervises projects on computer vision, multimodal reasoning, and robust learning systems.
