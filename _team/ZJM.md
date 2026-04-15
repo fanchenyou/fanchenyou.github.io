@@ -7,7 +7,8 @@ jobtitle: "PhD Candidate"
 group: "current-members"
 research_focus: "大语言模型的不确定性量化 Uncertainty quantification of LLMs"
 weight: 3
----
+--- 
+
 
 张家铭的研究方向是大语言模型的不确定性量化。
 He is working on uncertainty quantification of LLMs.
