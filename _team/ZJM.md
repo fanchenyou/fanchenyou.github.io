@@ -1,7 +1,7 @@
 ---
 title: "Zhang Jiaming 张家铭"
 date: 2026-04-13T10:47:58+08:00
-image: "images/team/ZhangJiaming"
+image: "images/team/ZhangJiaming.png"
 jobtitle: "PhD Candidate"
 # personal_url: "https://example.com/emma"
 group: "current-members"

@@ -1,7 +1,7 @@
 ---
 title: "Mingle Hong 洪铭乐"
 date: 2026-04-13T10:47:58+08:00
-image: "images/team/HML.jpg"
+image: "images/team/HML.png"
 jobtitle: "Master's Student"
 group: "current-members"
 weight: 4
