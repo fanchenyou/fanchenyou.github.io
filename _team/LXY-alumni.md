@@ -1,7 +1,7 @@
 ---
 title: "Mr. 刘向阳 Liu Xiangyang"
 date: 2026-04-13T10:47:58+08:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/LiuXiangyang.jpg"
 jobtitle: "Master Alumna"
 # personal_url: "https://example.com/emma"
 group: "graduated-alumni"
