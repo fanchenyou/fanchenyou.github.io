@@ -4,7 +4,7 @@ date: 2026-04-13T10:47:58+08:00
 image: "images/team/Zhiwen_Chen.png"
 jobtitle: "Master's Student"
 group: "current-members"
-weight: 8
+weight: 2024
 ---
 
 研究方向为大语言模型和多智能体协作。他于2023年获得广东技术师范大学通信工程学士学位，2023年-2024年担任云平台开发工程师。

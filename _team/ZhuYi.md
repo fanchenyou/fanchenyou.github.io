@@ -4,7 +4,7 @@ date: 2026-04-13T10:47:58+08:00
 image: "images/team/ZhuYi.jpg"
 jobtitle: "Master's Student"
 group: "current-members"
-weight: 4
+weight: 2023
 ---
 
 研究方向包括检索增强生成、AI智能体和多模态问答，致力于探索大语言模型在知识获取、任务规划和跨模态理解中的关键能力与实际应用。
