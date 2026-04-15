@@ -18,10 +18,10 @@ permalink: "/gallery/"
     </figcaption>
   </figure>
   <figure class="gallery-feature-card tall">
-    <img src="{{ '/images/1686104359209136.jpg' | relative_url }}" alt="FancyAI Lab campus activity" />
+    <img src="{{ '/images/team_pic/2025-04-27.jpg' | relative_url }}" alt="FancyAI Lab campus activity" />
     <figcaption>
       <span>Lab Activity</span>
-      <strong>Workshops, visits, and shared milestones</strong>
+      <strong>2022级毕业合照</strong>
     </figcaption>
   </figure>
   <figure class="gallery-feature-card">
