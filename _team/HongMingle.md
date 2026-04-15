@@ -1,5 +1,5 @@
 ---
-title: "Mingle Hong 洪铭乐"
+title: "洪铭乐 Hong Mingle"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/HML.png"
 jobtitle: "Master's Student"

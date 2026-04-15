@@ -1,5 +1,5 @@
 ---
-title: "Zhiwen Chen 陈志闻"
+title: "陈志闻 Chen Zhiwen"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/Zhiwen_Chen.png"
 jobtitle: "Master's Student"

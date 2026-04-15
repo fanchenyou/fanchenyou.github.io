@@ -1,5 +1,5 @@
 ---
-title: "Zhang Tingyu 张庭毓"
+title: "张庭毓 Zhang Tingyu"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/ZhangTingyu.png"
 jobtitle: "Master's Student"

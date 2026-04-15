@@ -1,5 +1,5 @@
 ---
-title: "Chen Jiepan 潘辰杰"
+title: "潘辰杰 Chen Jiepan"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/Chen_Jiepan.png"
 jobtitle: "Master's Student"

@@ -1,5 +1,5 @@
 ---
-title: "Chen Zijian 陈子鉴"
+title: "陈子鉴 Chen Zijian"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/Chen_Zijian.jpg"
 jobtitle: "M.S. Student"

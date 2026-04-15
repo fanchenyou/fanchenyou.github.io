@@ -1,5 +1,5 @@
 ---
-title: "Zhang Jiaming 张家铭"
+title: "张家铭 Zhang Jiaming"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/ZhangJiaming.png"
 jobtitle: "PhD Candidate"

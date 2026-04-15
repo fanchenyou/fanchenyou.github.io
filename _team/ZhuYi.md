@@ -1,5 +1,5 @@
 ---
-title: "Yi Zhu 朱毅"
+title: "朱毅 Zhu Yi"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/ZhuYi.jpg"
 jobtitle: "Master's Student"
