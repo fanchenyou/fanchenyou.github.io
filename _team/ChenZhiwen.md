@@ -4,7 +4,7 @@ date: 2026-04-13T10:47:58+08:00
 image: "images/team/Zhiwen_Chen.png"
 jobtitle: "Master's Student"
 group: "current-members"
-research_focus: "大语言模型和智能体协作. LLMs and Agent Collaboration."
+research_focus: "大语言模型和智能体协作 LLMs and Agent Collaboration"
 weight: 2024
 ---
 
