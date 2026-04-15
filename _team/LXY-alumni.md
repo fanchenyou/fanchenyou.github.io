@@ -9,4 +9,6 @@ current_position: "研发工程师"
 weight: 7
 ---
 
+研究方向为自然语言理解和大语言模型。
+
 He completed his master research on Nature Language Understanding and LLMs.
