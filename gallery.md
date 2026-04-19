@@ -17,6 +17,13 @@ permalink: "/gallery/"
       <strong>2022级毕业合照(Master graduates)</strong>
     </figcaption>
   </figure>
+    <figure class="gallery-feature-card large">
+    <img src="{{ '/images/team_pic/20260419-kepu.jpg' | relative_url }}" alt="FancyAI public service photo" />
+    <figcaption>
+      <span>Public Service Photo</span>
+      <strong>2026年广东省立中山图书馆科普大讲堂</strong>
+    </figcaption>
+  </figure>
   <figure class="gallery-feature-card tall">
     <img src="{{ '/images/team_pic/2025-04-27-03.jpg' | relative_url }}" alt="FancyAI Lab campus activity" />
     <figcaption>
