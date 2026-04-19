@@ -27,13 +27,13 @@ permalink: "/gallery/"
   </figure>
 
 
-  <figure class="gallery-story-card">
+  <!-- <figure class="gallery-story-card">
     <img src="{{ '/images/team_pic/2025-04-27-03.jpg' | relative_url }}" alt="FancyAI Lab group activity photo" />
     <figcaption>
       <span>Lab Activity</span>
       <strong>团队活动与集体合影</strong>
     </figcaption>
-  </figure>
+  </figure> -->
 
   <figure class="gallery-story-card">
     <img src="{{ '/images/team_pic/2025-04-27-02.jpg' | relative_url }}" alt="Graduates and administrative staff" />
