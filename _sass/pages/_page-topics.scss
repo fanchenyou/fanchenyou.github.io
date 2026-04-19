@@ -191,36 +191,26 @@
     }
   }
 
-  .gallery-featured-grid {
+  .gallery-story-stack {
     display: grid;
-    grid-template-columns: 1.5fr 1fr;
-    gap: 18px;
-    margin-bottom: 18px;
-
-    @include media-breakpoint-down(md) {
-      grid-template-columns: 1fr;
-    }
+    gap: 22px;
   }
 
-  .gallery-feature-card {
+  .gallery-story-card {
     position: relative;
     margin: 0;
-    min-height: 280px;
-    border-radius: 24px;
+    min-height: 360px;
+    border-radius: 28px;
     overflow: hidden;
-    box-shadow: 0 18px 34px rgba(122, 15, 22, 0.1);
+    box-shadow: 0 22px 42px rgba(122, 15, 22, 0.12);
+    background: #4f0a0f;
 
-    &.large {
-      grid-row: span 2;
-      min-height: 578px;
+    &.hero {
+      min-height: 520px;
 
       @include media-breakpoint-down(md) {
-        min-height: 320px;
+        min-height: 360px;
       }
-    }
-
-    &.tall {
-      min-height: 280px;
     }
 
     img {
@@ -234,54 +224,34 @@
       content: "";
       position: absolute;
       inset: 0;
-      background: linear-gradient(180deg, rgba(79, 10, 15, 0.04), rgba(79, 10, 15, 0.46));
+      background: linear-gradient(180deg, rgba(79, 10, 15, 0.04), rgba(79, 10, 15, 0.5));
     }
 
     figcaption {
       position: absolute;
-      left: 22px;
-      right: 22px;
-      bottom: 22px;
+      left: 28px;
+      right: 28px;
+      bottom: 28px;
       z-index: 1;
       color: #fff;
 
       span {
         display: inline-block;
-        margin-bottom: 8px;
+        margin-bottom: 10px;
+        padding: 6px 10px;
+        border-radius: 999px;
+        background: rgba(241, 227, 198, 0.18);
+        color: #f1e3c6;
         font-size: 12px;
         text-transform: uppercase;
         letter-spacing: 0.14em;
-        color: #e7d3ab;
       }
 
       strong {
         display: block;
-        font-size: 22px;
-        line-height: 1.45;
+        font-size: 28px;
+        line-height: 1.4;
       }
-    }
-  }
-
-  .gallery-masonry-grid {
-    columns: 3 220px;
-    column-gap: 18px;
-    margin-top: 22px;
-  }
-
-  .gallery-tile {
-    break-inside: avoid;
-    margin: 0 0 18px;
-    border-radius: 20px;
-    overflow: hidden;
-    background: #fcf6f3;
-    box-shadow: 0 14px 28px rgba(122, 15, 22, 0.08);
-
-    img {
-    //   width: 100%;
-    //   height: auto;
-      width: 380px;
-      height: auto;
-      display: block;
     }
   }
 }
