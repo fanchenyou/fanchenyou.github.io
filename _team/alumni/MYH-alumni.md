@@ -1,7 +1,6 @@
 ---
 title: "Mr. 马宇函 Ma Yuhan"
 date: 2026-04-13T10:47:58+08:00
-image: "images/team/LiuXiangyang.jpg"
 jobtitle: "Master Alumna"
 # personal_url: "https://example.com/emma"
 group: "graduated-alumni"
