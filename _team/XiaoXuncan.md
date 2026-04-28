@@ -1,7 +1,7 @@
 ---
 title: "Xiao Xuncan 萧勋灿"
 date: 2026-04-13T10:47:58+08:00
-# image: "images/team/XiaoXuncan.png"
+image: "images/team/XiaoXuncan.png"
 jobtitle: "Master Alumna"
 group: "current-members"
 # research_focus:  "时间序列生成建模 Time series generation"

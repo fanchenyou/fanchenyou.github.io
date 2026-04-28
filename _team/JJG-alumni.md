@@ -1,7 +1,7 @@
 ---
 title: "Mr. 江金钢 Jiang Jingang "
 date: 2026-04-13T10:47:58+08:00
-# image: "images/team/JiangJingang.jpg"
+image: "images/team/JiangJingang.jpg"
 jobtitle: "Master Alumna"
 # personal_url: "https://example.com/emma"
 group: "graduated-alumni"
