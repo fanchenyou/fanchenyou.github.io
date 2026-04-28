@@ -3,7 +3,7 @@ title: "朱毅 Zhu Yi"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/ZhuYi.jpg"
 jobtitle: "Master Alumna"
-group: "current-members"
+group: "graduated-alumni"
 # research_focus: "检索增强生成、AI智能体和多模态问答 RAG and LLM QA"
 # current_position: "研发工程师"
 weight: 2023

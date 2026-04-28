@@ -3,7 +3,7 @@ title: "董瑞琪 Dong Ruiqi"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/DongRuiqi.png"
 jobtitle: "Master Alumna"
-group: "current-members"
+group: "graduated-alumni"
 # research_focus: "AI智能体、检索增强生成和多模态生成 AI Agent, RAG, and multi-modal generation"
 current_position: "大模型工程师"
 weight: 2023
