@@ -62,6 +62,13 @@ bodyClass: "page-home"
           <strong>世界大学生超算挑战赛ASC华师人工智能学院团队喜获二等奖</strong>
         </div>
       </article>
+         <article class="home-slide">
+        <img src="{{ '/images/project_pic/library_3D.gif' | relative_url }}" alt="3D reconstruction of campus library" />
+        <div class="home-slide-caption">
+          <span>Project demo</span>
+          <strong>无人机对校园图书馆3D重建</strong>
+        </div>
+      </article>
     </div>
     <div class="home-carousel-controls">
       <button class="home-carousel-btn prev" type="button" aria-label="Previous slide">‹</button>
@@ -77,8 +84,9 @@ bodyClass: "page-home"
 
 <div class="container topic-overview-section">
   <div class="section-heading">
-    <p class="section-label">Research Areas</p>
-    <h2>Core directions currently pursued in FancyAI Lab.</h2>
+    <!-- <p class="section-label">Research Areas</p> -->
+    <!-- <h2>Core directions currently pursued in FancyAI Lab.</h2> -->
+     <h2>Research Areas.</h2>
   </div>
   <div class="row g-4">
     {% assign featured_topics = site.topics | sort: 'weight' | slice: 0, site.home.featured_topics_limit %}
