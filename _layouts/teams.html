@@ -14,17 +14,18 @@ bodyClass: "page-teams"
 </div>
 
 <div class="container team-directory pb-6 pb-md-10">
-  {% assign leadership = site.team | where: 'group', 'leadership' | sort: 'weight' %}
+  <!-- {% assign leadership = site.team | where: 'group', 'leadership' | sort: 'weight' %} -->
+  {% assign faculty = site.team | where: 'group', 'faculty' | sort: 'weight' %}
   {% assign current_members = site.team | where: 'group', 'current-members' | sort: 'weight' %}
   {% assign alumni = site.team | where: 'group', 'graduated-alumni' | sort: 'weight' %}
 
   <section class="team-group-block">
     <div class="team-group-header">
       <p class="team-group-kicker">People</p>
-      <h2>Leadership</h2>
+      <h2>Faculty</h2>
     </div>
     <div class="row g-4">
-      {% for member in leadership %}
+      {% for member in faculty %}
       <div class="col-12 col-md-6">
         <div class="team team-summary team-summary-large">
           {% if member.image %}
