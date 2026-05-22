@@ -1,8 +1,8 @@
 ---
-title: "Large Language Models"
-short_name: "llm"
-slug: "llm"
-summary: "Research on foundation models, alignment, efficient adaptation, and scientific use of large models."
+title: "【研心】教育大模型 Large Educational Language Models"
+short_name: "edu_llm"
+slug: "edu_llm"
+summary: "认知感知教育大模型研究。 Research on tuning foundation models for applications in educational and psychological cognition."
 weight: 4
 ---
 
