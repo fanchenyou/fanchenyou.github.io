@@ -50,6 +50,14 @@ permalink: "/gallery/"
       <strong>本科生团队活动合照</strong>
     </figcaption>
   </figure>
+
+  <figure class="gallery-story-card">
+    <img src="{{ '/images/project_pic/library_3D.gif' | relative_url }}" alt="3D reconstruction of campus library" />
+    <figcaption>
+      <span>Project Demo</span>
+      <strong>无人机对校园图书馆3D重建</strong>
+    </figcaption>
+  </figure>
 </div>
 
 

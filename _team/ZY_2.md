@@ -6,7 +6,7 @@ jobtitle: "Principal Investigator"
 # personal_url: ""
 group: "faculty"
 research_focus: "Computer Vision, Depth Estimation, LVMs"
-summary: "带领实验室在计算机视觉、场景理解与多模态理解方面进行研究与合作。Co-leading the lab with interests in computer vision, scene understanding, and multimodal learning."
+summary: "专注计算机视觉、场景理解与多模态理解研究。Focus on computer vision, scene understanding, and multimodal learning."
 weight: 2
 ---
 
