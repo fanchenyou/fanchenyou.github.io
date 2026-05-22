@@ -1,12 +1,11 @@
 ---
-title: "【研心】教育大模型 Large Educational Language Models"
+title: "【研心】教育大模型"
 short_name: "edu_llm"
 slug: "edu_llm"
-summary: "认知感知教育大模型研究。 Research on tuning foundation models for applications in educational and psychological cognition."
+summary: "【研心】认知感知教育大模型研究。 Research on tuning foundation models for applications in educational and psychological cognition."
 weight: 4
 ---
 
-【研心】教育大模型
 
 面向高校智慧教育与学生成长支持场景，【研心】教育大模型集学业分析、心理评估、风险预警与智能建议于一体。For smart education and student growth support in higher education, the Yanxin educational large model integrates academic analysis, psychological assessment, risk warning, and intelligent recommendations.
 
