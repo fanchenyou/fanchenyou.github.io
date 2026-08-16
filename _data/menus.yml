@@ -2,9 +2,9 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Team"
-    url: "/team/"
-    weight: 2
+  # - name: "Team"
+  #   url: "/team/"
+  #   weight: 2
   - name: "Publication"
     url: "/publication/"
     weight: 3
@@ -19,9 +19,9 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Team"
-    url: "/team/"
-    weight: 2
+  # - name: "Team"
+  #   url: "/team/"
+  #   weight: 2
   - name: "Topics"
     url: "/topics/"
     weight: 3
