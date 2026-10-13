@@ -18,7 +18,7 @@ permalink: "/gallery/"
     </figcaption>
   </figure>
 
-  <figure class="gallery-feature-card hero">
+  <figure class="gallery-story-card hero">
     <img src="{{ '/images/team_pic/20260419-kepu.jpg' | relative_url }}" alt="FancyAI public service photo" />
     <figcaption>
       <span>Public Service Photo</span>

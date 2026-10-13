@@ -13,9 +13,6 @@ logo:
   desktop_width: "160px"
   favicon: "images/logo/2.png"
 
-home:
-  featured_topics_limit: 4
-
 collections:
   services:
     output: true
@@ -46,9 +43,6 @@ defaults:
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
-plugins:
-  - jekyll-environment-variables
-
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -60,3 +54,5 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - OLD/
+  - OK/

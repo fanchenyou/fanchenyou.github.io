@@ -3,115 +3,21 @@ layout: default
 bodyClass: "page-home"
 ---
 
-<div class="hero-panel">
-  <div class="container">
-    <div class="hero-shell">
-      <div class="row align-items-center g-5">
-        <div class="col-12 col-lg-6">
-          <div class="hero-copy">
-            <p class="hero-kicker">FancyAI Lab</p>
-            {{ content }}
-            <div class="hero-actions">
-              <a class="button button-secondary" href="{{ '/publication/' | relative_url }}">Recent Publications</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-12 col-lg-6">
-          <div class="hero-highlight">
-            <div class="hero-highlight-card">
-              <span class="hero-highlight-label">Focus</span>
-              <h2>Computer vision, language intelligence, multi-agent collaboration, and large models.</h2>
-              <p>We build reliable AI systems for scientific discovery, embodied decision making, and real-world deployment.</p>
-            </div>
-          </div>
-        </div>
+<div class="home-container">
+  <div class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.subtitle %}<p class="post-desc">{{ page.subtitle }}</p>{% endif %}
+    </header>
+    <article>
+      <div class="profile">
+        <figure>
+          <img src="{{ '/images/team/FCY.jpg' | relative_url }}" class="img-fluid rounded" alt="{{ page.title }}" width="220" height="auto" />
+        </figure>
       </div>
-    </div>
-  </div>
-</div>
-
-<div class="container home-carousel-wrap">
-  <section class="home-carousel" aria-label="Campus photos carousel">
-    <div class="home-carousel-track">
-          <article class="home-slide active">
-        <img src="{{ '/images/team_pic/2026-04-27-01.jpg' | relative_url }}" alt="Campus building and outdoor academic environment" />
-        <div class="home-slide-caption">
-          <span>Team Graduate Alumni</span>
-          <strong>2023级研究生顺利毕业</strong>
-        </div>
-      </article>
-      <article class="home-slide active">
-        <img src="{{ '/images/team_pic/2025-04-27-01.jpg' | relative_url }}" alt="Campus building and outdoor academic environment" />
-        <div class="home-slide-caption">
-          <span>Team Graduate Alumni</span>
-          <strong>2022级研究生顺利毕业</strong>
-        </div>
-      </article>
-      <article class="home-slide">
-        <img src="{{ '/images/team_pic/20260419-kepu.jpg' | relative_url }}" alt="Collaborative research discussion setting" />
-        <div class="home-slide-caption">
-          <span>Public Service</span>
-          <strong>2026年广东省立中山图书馆科普大讲堂-AI前沿发展</strong>
-        </div>
-      </article>
-      <article class="home-slide">
-        <img src="{{ '/images/team_pic/2026-03-19-ASC.jpg' | relative_url }}" alt="Academic team for SuperComputing" />
-        <div class="home-slide-caption">
-          <span>Lab Members</span>
-          <strong>世界大学生超算挑战赛ASC华师人工智能学院团队喜获二等奖</strong>
-        </div>
-      </article>
-         <article class="home-slide">
-        <img src="{{ '/images/project_pic/library_3D.gif' | relative_url }}" alt="3D reconstruction of campus library" />
-        <div class="home-slide-caption">
-          <span>Project demo</span>
-          <strong>无人机对校园图书馆3D重建</strong>
-        </div>
-      </article>
-    </div>
-    <div class="home-carousel-controls">
-      <button class="home-carousel-btn prev" type="button" aria-label="Previous slide">‹</button>
-      <div class="home-carousel-dots" aria-label="Carousel navigation">
-        <button class="dot active" type="button" aria-label="Go to slide 1"></button>
-        <button class="dot" type="button" aria-label="Go to slide 2"></button>
-        <button class="dot" type="button" aria-label="Go to slide 3"></button>
+      <div class="clearfix">
+        {{ content }}
       </div>
-      <button class="home-carousel-btn next" type="button" aria-label="Next slide">›</button>
-    </div>
-  </section>
-</div>
-
-<div class="container topic-overview-section">
-  <div class="section-heading">
-    <!-- <p class="section-label">Research Areas</p> -->
-    <!-- <h2>Core directions currently pursued in FancyAI Lab.</h2> -->
-     <h2>Research Areas.</h2>
-  </div>
-  <div class="row g-4">
-    {% assign featured_topics = site.topics | sort: 'weight' | slice: 0, site.home.featured_topics_limit %}
-    {% for topic in featured_topics %}
-    <div class="col-12 col-md-6">
-      <a class="topic-card" href="{{ topic.url | relative_url }}">
-        <span class="topic-card-tag">{{ topic.short_name }}</span>
-        <h3>{{ topic.title }}</h3>
-        <p>{{ topic.summary }}</p>
-      </a>
-    </div>
-    {% endfor %}
-  </div>
-</div>
-
-<div class="topic-jump-strip">
-  <div class="container">
-    <div class="section-heading compact light">
-      <p class="section-label">Quick Navigation</p>
-      <!-- <h2>Shortcuts to the topic anchors on the overview page.</h2> -->
-    </div>
-    <div class="topic-jump-grid">
-      {% assign topic_links = site.topics | sort: 'weight' %}
-      {% for topic in topic_links %}
-      <a class="topic-jump-link" href="{{ '/topics/' | relative_url }}#{{ topic.slug }}">{{ topic.short_name }}</a>
-      {% endfor %}
-    </div>
+    </article>
   </div>
 </div>
