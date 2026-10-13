@@ -14,19 +14,11 @@ logo:
   favicon: "images/logo/2.png"
 
 collections:
-  services:
-    output: true
-    sort_by: weight
   topics:
     output: true
     sort_by: weight
 
 defaults:
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
   - scope:
       path: ""
       type: "topics"
