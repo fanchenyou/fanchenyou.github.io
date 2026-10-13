@@ -1,8 +1,8 @@
-## Publications
+## 论文
 
 <!-- ### Selected Publications -->
 
-### Multi-Agent Learning
+### 多智能体学习
 - **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
 - **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception."*** 29th ACM International Conference on Multimedia (MM), 2021. [[pdf]](/assets/docs/fs_map_1.pdf){:target="_blank"} [[poster]](/assets/docs/mm21_poster.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/fs-map-project){:target="_blank"}
@@ -10,7 +10,7 @@
 - **Chenyou Fan**, Jangwon Lee, Mingze Xu, K.K. Singh, Y.J. Lee, David J. Crandall, Michael S. Ryoo. ***"Identifying first-person camera wearers in third-person videos."*** IEEE Conference on Computer Vision and Pattern Recognition 2017 (CVPR'17, 29.0% acceptance rate). [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_Identifying_First-Person_Camera_CVPR_2017_paper.pdf){:target="_blank"} [[data & project page]](http://vision.soic.indiana.edu/identifying-1st-3rd/){:target="_blank"}
 
 
-### Large Vision and Language Models
+### 视觉语言大模型
 
 - Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** ACM International Conference on Multimedia (MM), 2025. [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755022) [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
 
@@ -20,7 +20,7 @@
 
 - **Chenyou Fan**, Heng Huang. ***"Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering."*** IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[paper]](https://arxiv.org/pdf/1904.04357.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/HME-VideoQA){:target="_blank"}
 
-### Time Series Forecasting
+### 时间序列预测
 
 - Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025. [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](/docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
 
@@ -35,14 +35,14 @@
 
 - Haiqi Jiang, Ying Ding, Rui Chen, **Chenyou Fan**. ***"Carbon Price Forecasting with LLM-based Refinement and Transfer-Learning."*** International Conference on Artificial Neural Networks, 2024. (ICANN 2024) [[pdf]](/assets/docs/icann24.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/Meta-DTS) [[video]](https://drive.google.com/file/d/1H5qZRKxVsyySubyyLug5A9nxC5CtNwyA/view?usp=drive_link)
 
-### Federated Learning
+### 联邦学习
 - Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi Jiang, **Chenyou Fan**. ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** International Joint Conference on Artificial Intelligence (IJCAI), 2025. [[pdf]](https://www.ijcai.org/proceedings/2025/0610.pdf){:target="_blank"} [[poster]](/assets/docs/ijcai25_poster.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025)
 
 - **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Private Semi-Supervised Federated Learning."*** International Joint Conference on Artificial Intelligence (IJCAI'22, 15% acceptance rate). [[pdf]](https://www.ijcai.org/proceedings/2022/279){:target="_blank"}
 
 - **Chenyou Fan**, Ping Liu. ***"Federated Generative Adversarial Learning."*** Chinese Conference on Pattern Recognition and Computer Vision (PRCV'20). [[paper]](https://arxiv.org/abs/2005.03793){:target="_blank"}
 
-### Miscellaneous
+### 其他
 
 - Tianyi Lin, **Chenyou Fan** (co-first), Nhat Ho, Marco Cuturi, Michael I. Jordan. ***"Projection Robust Wasserstein Distance and Riemannian Optimization."*** Conference on Neural Information Processing Systems (NeurIPS'20, spotlight, 20% acceptance rate, 3% spotlight rate). [[pdf]](https://arxiv.org/abs/2006.07458){:target="_blank"} [[code]](https://github.com/fanchenyou/PRW){:target="_blank"}
 

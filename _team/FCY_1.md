@@ -2,11 +2,11 @@
 title: "Dr. 范晨悠 Fan Chenyou"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/FCY.jpg"
-jobtitle: "Associate Professor"
+jobtitle: "副教授"
 personal_url: "https://fanchenyou.github.io/"
 group: "faculty"
-research_focus: "Computer vision, Multi-Agent Learning, and Multimodal Learning"
-summary: "探索视觉智能、智能体协作、教育大模型与心理认知交融研究。Exploring the integration of visual intelligence, agent collaboration, educational large models, and psychological cognition research."
+research_focus: "计算机视觉、多智能体学习与多模态学习"
+summary: "探索视觉智能、智能体协作、教育大模型与心理认知交融研究。"
 honors:
   - label: "World's Top 2% Scientists (2026 Edition)"
     detail: "Stanford University & Elsevier"

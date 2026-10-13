@@ -17,8 +17,8 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: "Source Sans 3", Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Cormorant Garamond", serif, -apple-system;
+$font-family-base: "Source Sans 3", Helvetica, Arial, -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+$font-family-heading: "Cormorant Garamond", serif, -apple-system, "Songti SC", "STSong", serif;
 
 // Footer
 $footer-background-color: $primary-dark;

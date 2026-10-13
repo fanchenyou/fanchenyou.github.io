@@ -14,43 +14,36 @@ bodyClass: "page-teams"
 </div>
 
 <div class="container team-directory pb-6 pb-md-10">
-  <!-- {% assign leadership = site.team | where: 'group', 'leadership' | sort: 'weight' %} -->
   {% assign faculty = site.team | where: 'group', 'faculty' | sort: 'weight' %}
   {% assign current_members = site.team | where: 'group', 'current-members' | sort: 'weight' %}
   {% assign alumni = site.team | where: 'group', 'graduated-alumni' | sort: 'weight' %}
 
   <section class="team-group-block">
     <div class="team-group-header">
-      <!-- <p class="team-group-kicker">People</p> -->
-      <h2>Faculty</h2>
+      <h2>教师</h2>
     </div>
     <div class="row g-4">
       {% for member in faculty %}
       <div class="col-12 col-md-6">
-        <div class="team team-summary team-summary-large">
-          {% if member.image %}
-          <div class="team-image">
-            <img width="96" height="96" alt="{{ member.title }}" class="img-fluid" src="{{ member.image | relative_url }}" />
+        <article class="member-row">
+          <h3 class="member-name">
+            <a href="{{ member.personal_url | default: member.url | relative_url }}" {% if member.personal_url %}target="_blank" rel="noreferrer"{% endif %}>{{ member.title }}</a>
+            <span class="member-tag">{{ member.jobtitle }}</span>
+          </h3>
+          {% if member.research_focus %}<p class="member-focus">研究方向：{{ member.research_focus }}</p>{% endif %}
+          {% if member.summary %}<p class="member-summary">{{ member.summary }}</p>{% endif %}
+          {% if member.honors %}
+          <div class="team-honors">
+            {% for honor in member.honors %}
+            <span class="team-honor">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.2l-6.1 3.4 1.4-6.8L2.2 9.1l6.9-.8z"/></svg>
+              {% if honor.url %}<a href="{{ honor.url }}" target="_blank" rel="noreferrer">{{ honor.label }}</a>{% else %}{{ honor.label }}{% endif %}
+              {% if honor.detail %}<em>{{ honor.detail }}</em>{% endif %}
+            </span>
+            {% endfor %}
           </div>
           {% endif %}
-          <div class="team-meta">
-            <h3 class="team-name"><a href="{{ member.personal_url | default: member.url | relative_url }}" {% if member.personal_url %}target="_blank" rel="noreferrer"{% endif %}>{{ member.title }}</a></h3>
-            <p class="team-description">{{ member.jobtitle }}</p>
-            <span class="team-note">{{ member.research_focus }}</span>
-            {% if member.honors %}
-            <div class="team-honors">
-              {% for honor in member.honors %}
-              <span class="team-honor">
-                <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.2l-6.1 3.4 1.4-6.8L2.2 9.1l6.9-.8z"/></svg>
-                {% if honor.url %}<a href="{{ honor.url }}" target="_blank" rel="noreferrer">{{ honor.label }}</a>{% else %}{{ honor.label }}{% endif %}
-                {% if honor.detail %}<em>{{ honor.detail }}</em>{% endif %}
-              </span>
-              {% endfor %}
-            </div>
-            {% endif %}
-          </div>
-          <div class="team-content">{{ member.summary }}</div>
-        </div>
+        </article>
       </div>
       {% endfor %}
     </div>
@@ -58,24 +51,18 @@ bodyClass: "page-teams"
 
   <section class="team-group-block">
     <div class="team-group-header">
-      <!-- <p class="team-group-kicker">People</p> -->
-      <h2>Current Members</h2>
+      <h2>在读成员</h2>
     </div>
     <div class="row g-4">
       {% for member in current_members %}
-      <div class="col-12 col-md-6 col-xl-4">
-        <div class="team team-summary member-card">
-          {% if member.image %}
-          <div class="team-image">
-            <img width="72" height="72" alt="{{ member.title }}" class="img-fluid" src="{{ member.image | relative_url }}" />
-          </div>
-          {% endif %}
-          <div class="team-meta">
-            <h3 class="team-name"><a href="{{ member.personal_url | default: member.url | relative_url }}" {% if member.personal_url %}target="_blank" rel="noreferrer"{% endif %}>{{ member.title }}</a></h3>
-            <p class="team-description">{{ member.jobtitle }}</p>
-            <span class="team-note">{{ member.research_focus }}</span>
-          </div>
-        </div>
+      <div class="col-12 col-md-6">
+        <article class="member-row">
+          <h3 class="member-name">
+            {% if member.personal_url %}<a href="{{ member.personal_url | relative_url }}" target="_blank" rel="noreferrer">{{ member.title }}</a>{% else %}{{ member.title }}{% endif %}
+            <span class="member-tag">{{ member.jobtitle }}</span>
+          </h3>
+          {% if member.research_focus %}<p class="member-focus">研究方向：{{ member.research_focus }}</p>{% endif %}
+        </article>
       </div>
       {% endfor %}
     </div>
@@ -83,24 +70,18 @@ bodyClass: "page-teams"
 
   <section class="team-group-block">
     <div class="team-group-header">
-      <!-- <p class="team-group-kicker">People</p> -->
-      <h2>Graduated Alumni</h2>
+      <h2>已毕业校友</h2>
     </div>
     <div class="row g-4">
       {% for member in alumni %}
-      <div class="col-12 col-md-6 col-xl-4">
-        <div class="team team-summary member-card alumni-card">
-          {% if member.image %}
-          <div class="team-image">
-            <img width="72" height="72" alt="{{ member.title }}" class="img-fluid" src="{{ member.image | relative_url }}" />
-          </div>
-          {% endif %}
-          <div class="team-meta">
-            <h3 class="team-name"><a href="{{ member.personal_url | default: member.url | relative_url }}" {% if member.personal_url %}target="_blank" rel="noreferrer"{% endif %}>{{ member.title }}</a></h3>
-            <p class="team-description">{{ member.jobtitle }}</p>
-            <span class="team-note">{{ member.current_position }}</span>
-          </div>
-        </div>
+      <div class="col-12 col-md-6">
+        <article class="member-row">
+          <h3 class="member-name">
+            {{ member.title }}
+            <span class="member-tag">{{ member.jobtitle }}</span>
+          </h3>
+          {% if member.current_position %}<p class="member-focus">现职：{{ member.current_position }}</p>{% endif %}
+        </article>
       </div>
       {% endfor %}
     </div>

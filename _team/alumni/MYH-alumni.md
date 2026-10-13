@@ -1,7 +1,7 @@
 ---
 title: "Mr. 马宇函 Ma Yuhan"
 date: 2026-04-13T10:47:58+08:00
-jobtitle: "Master Alumna"
+jobtitle: "硕士校友"
 # personal_url: "https://example.com/emma"
 group: "graduated-alumni"
 current_position: "大数据工程师"

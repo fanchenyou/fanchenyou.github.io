@@ -1,46 +1,46 @@
 ---
-title: "Chenyou Fan 范晨悠"
-subtitle: "Associate Professor, School of Artificial Intelligence, South China Normal University"
+title: "范晨悠 Chenyou Fan"
+subtitle: "华南师范大学人工智能学院 · 副教授"
 layout: home
-description: "Homepage of Chenyou Fan (范晨悠) — FancyAI Lab, South China Normal University"
+description: "范晨悠个人主页 — FancyAI Lab，华南师范大学人工智能学院"
 ---
 
-Welcome to my homepage!
+欢迎访问我的主页！
 
-I am an associate professor in the [School of Artificial Intelligence](https://ai.scnu.edu.cn/){:target="_blank"} at [South China Normal University](https://www.scnu.edu.cn/){:target="_blank"}, where I lead **FancyAI Lab**. My research interests lie in computer vision, multimodal learning, multi-agent systems, and large language models, with a recent focus on trustworthy AI companions and educational large models for K12 scenarios.
+我是华南师范大学人工智能学院副教授，带领 **FancyAI Lab**。我的研究兴趣是计算机视觉、多模态学习、多智能体系统与大语言模型，近期聚焦于可信 AI 陪伴与面向 K12 场景的教育大模型。
 
-I obtained my Ph.D. in Computer Science from Indiana University Bloomington in 2019, and received my B.S. from Nanjing University. I am also a doctoral supervisor in Computer Science and Technology.
+我于 2019 年在美国印第安纳大学布鲁明顿分校获计算机科学博士学位，本科毕业于南京大学，现为计算机科学与技术学术学位博士生导师。
 
 <div class="home-award-badge">
   <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.2l-6.1 3.4 1.4-6.8L2.2 9.1l6.9-.8z"/></svg>
-  <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9" target="_blank" rel="noreferrer">Ranked among the World's Top 2% Scientists</a>
-  <span class="home-award-source">Stanford University &amp; Elsevier, 2026 Edition</span>
+  <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9" target="_blank" rel="noreferrer">入选 2026 年度全球前 2% 顶尖科学家榜单</a>
+  <span class="home-award-source">斯坦福大学 &amp; 爱思唯尔</span>
 </div>
 
-**Email:** fanchenyou [at] scnu [dot] edu [dot] cn
+**邮箱：** fanchenyou [at] scnu [dot] edu [dot] cn
 
-## News
+## 新闻动态
 
 <ul class="news-list">
-  <li><span class="news-date">Oct 2026</span> Selected into the <em>World's Top 2% Scientists 2026</em> list (Stanford University &amp; Elsevier).</li>
-  <li><span class="news-date">Aug 2026</span> Approved as a doctoral supervisor in Computer Science and Technology by the SCNU Academic Degree Committee.</li>
-  <li><span class="news-date">Apr 2026</span> Delivered a public lecture on AI frontiers at the Guangdong Zhongshan Library Science Forum (科普大讲堂).</li>
-  <li><span class="news-date">Mar 2026</span> Our undergraduate team won the <em>Second Prize</em> at the ASC 2026 Student Supercomputing Challenge.</li>
-  <li><span class="news-date">2026</span> One paper accepted to ACM MM 2025 (StoryCrafter), one to KDD 2025 (CMA), one to IJCAI 2025 (FedMoE), and one to ICASSP 2025.</li>
-  <li><span class="news-date">2025</span> Named to the Guangdong Special Support Program for Young Top-Notch Talents (省特支计划青年拔尖人才).</li>
-  <li><span class="news-date">2024</span> Received the Guangdong Computer Federation Young Scientist Award (广东省计算机学会青年科技奖).</li>
+  <li><span class="news-date">2026 年 10 月</span> 入选 2026 年度<em>全球前 2% 顶尖科学家</em>榜单（斯坦福大学 &amp; 爱思唯尔）。</li>
+  <li><span class="news-date">2026 年 8 月</span> 经校学位评定委员会审定，获得计算机科学与技术学术学位博士生导师资格。</li>
+  <li><span class="news-date">2026 年 4 月</span> 受邀在广东省立中山图书馆科普大讲堂作 AI 前沿发展报告。</li>
+  <li><span class="news-date">2026 年 3 月</span> 指导本科生团队在世界大学生超级计算机竞赛（ASC 2026）中获<em>二等奖</em>。</li>
+  <li><span class="news-date">2025 年</span> 1 篇论文被 ACM MM 2025 收录（StoryCrafter），另有 KDD 2025、IJCAI 2025、ICASSP 2025 各 1 篇。</li>
+  <li><span class="news-date">2025 年</span> 入选广东省特支计划“青年拔尖人才”。</li>
+  <li><span class="news-date">2024 年</span> 获广东省计算机学会青年科技奖。</li>
 </ul>
 
-## Selected Publications
+## 精选论文
 
-- Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** ACM International Conference on Multimedia (MM), 2025. [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755022){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025){:target="_blank"}
+- Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** 第 33 届 ACM 国际多媒体会议（MM），2025。[[论文]](https://dl.acm.org/doi/10.1145/3746027.3755022){:target="_blank"} [[代码]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025){:target="_blank"}
 
-- Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025){:target="_blank"}
+- Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** 第 31 届 ACM SIGKDD 知识发现与数据挖掘会议（KDD），2025。[[论文]](https://dl.acm.org/doi/10.1145/3711896.3736881){:target="_blank"} [[代码]](https://github.com/FancyAI-SCNU/CMA_KDD_2025){:target="_blank"}
 
-- Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi Jiang, **Chenyou Fan**. ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** International Joint Conference on Artificial Intelligence (IJCAI), 2025. [[pdf]](https://www.ijcai.org/proceedings/2025/0610.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025){:target="_blank"}
+- Jingang Jiang, Yanzhao Chen, Xiangyang Liu, Haiqi Jiang, **Chenyou Fan**. ***"Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts."*** 第 34 届国际人工智能联合会议（IJCAI），2025。[[PDF]](https://www.ijcai.org/proceedings/2025/0610.pdf){:target="_blank"} [[代码]](https://github.com/FancyAI-SCNU/FedMoE_IJCAI_2025){:target="_blank"}
 
-- **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [[paper]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
+- **Chenyou Fan**, Junjie Hu, Jianwei Huang. ***"Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning."*** IEEE 模式分析与机器智能汇刊（TPAMI），2023。[[论文]](https://ieeexplore.ieee.org/document/10149393){:target="_blank"}
 
-- **Chenyou Fan**, Heng Huang. ***"Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering."*** IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[paper]](https://arxiv.org/pdf/1904.04357.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/HME-VideoQA){:target="_blank"}
+- **Chenyou Fan**, Heng Huang. ***"Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering."*** IEEE 计算机视觉与模式识别会议（CVPR），2019。[[论文]](https://arxiv.org/pdf/1904.04357.pdf){:target="_blank"} [[代码]](https://github.com/fanchenyou/HME-VideoQA){:target="_blank"}
 
-<p class="pub-more"><a href="{{ '/publication/' | relative_url }}">Full list of publications, patents, and presentations →</a></p>
+<p class="pub-more"><a href="{{ '/publication/' | relative_url }}">查看全部论文、专利与学术报告 →</a></p>

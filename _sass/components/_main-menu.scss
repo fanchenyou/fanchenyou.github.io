@@ -37,6 +37,16 @@
           }
         }
       }
+      &.menu-en {
+        margin-left: 12px;
+        padding-left: 14px;
+        border-left: 1px solid rgba(122, 15, 22, 0.22);
+
+        > a {
+          color: #954d42;
+          letter-spacing: 0.12em;
+        }
+      }
     }
   }
 }

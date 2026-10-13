@@ -2,9 +2,9 @@
 title: "潘辰杰 Chen Jiepan"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/Chen_Jiepan.png"
-jobtitle: "Master's Student"
+jobtitle: "硕士研究生"
 group: "current-members"
-research_focus: "多模态大模型与效率增强 Multimodal LLMs and efficiency enhancement"
+research_focus: "多模态大模型与效率增强"
 weight: 2024
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: People
+title: 成员
 layout: teams
-description: Lab members and alumni
+description: 实验室教师、在读成员与已毕业校友
 permalink: "/team/"
 ---
 
-# People
+# 成员
 
-Faculty, current members, and graduated alumni of FancyAI Lab at South China Normal University.
+FancyAI Lab 的教师、在读成员与已毕业校友。

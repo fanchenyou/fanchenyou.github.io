@@ -1,27 +1,31 @@
 main:
-  - name: "About"
+  - name: "关于"
     url: "/"
     weight: 1
-  - name: "People"
+  - name: "成员"
     url: "/team/"
     weight: 2
-  - name: "Publication"
+  - name: "论文"
     url: "/publication/"
     weight: 3
-  - name: "Gallery"
+  - name: "相册"
     url: "/gallery/"
     weight: 4
+  - name: "EN"
+    url: "/en/"
+    weight: 5
+    class: "menu-en"
 
 footer:
-  - name: "About"
+  - name: "关于"
     url: "/"
     weight: 1
-  - name: "People"
+  - name: "成员"
     url: "/team/"
     weight: 2
-  - name: "Publication"
+  - name: "论文"
     url: "/publication/"
     weight: 3
-  - name: "Gallery"
+  - name: "相册"
     url: "/gallery/"
     weight: 4

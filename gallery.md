@@ -1,12 +1,12 @@
 ---
-title: Gallery
+title: 相册
 layout: page
-description: Lab moments and activities
+description: 团队合影、活动瞬间与项目演示
 permalink: "/gallery/"
 ---
 
 <div class="gallery-page-intro">
-  <p>Team photos, workshop snapshots, campus visits, and moments that capture the spirit of FancyAI Lab.</p>
+  <p>团队合影、科普活动、竞赛瞬间与项目演示，记录 FancyAI Lab 的日常。</p>
 </div>
 
 <div class="gallery-story-stack">

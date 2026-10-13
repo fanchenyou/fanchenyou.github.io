@@ -2,9 +2,9 @@
 title: "张庭毓 Zhang Tingyu"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/ZhangTingyu.png"
-jobtitle: "Master's Student"
+jobtitle: "硕士研究生"
 group: "current-members"
-research_focus: "多模态理解与生成 Multi-modal understanding and generation"
+research_focus: "多模态理解与生成"
 weight: 2025
 ---
 

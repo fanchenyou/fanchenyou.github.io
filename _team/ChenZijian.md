@@ -2,9 +2,9 @@
 title: "陈子鉴 Chen Zijian"
 date: 2026-04-13T10:47:58+08:00
 image: "images/team/Chen_Zijian.jpg"
-jobtitle: "M.S. Student"
+jobtitle: "硕士研究生"
 group: "current-members"
-research_focus: "多智能体协作、大语言模型和强化学习 Multi-agent collaboration driven by LLMs"
+research_focus: "多智能体协作、大语言模型与强化学习"
 weight: 2024
 ---
 研究方向为多智能体协作、大语言模型和强化学习。
