@@ -37,6 +37,17 @@ bodyClass: "page-teams"
             <h3 class="team-name"><a href="{{ member.personal_url | default: member.url | relative_url }}" {% if member.personal_url %}target="_blank" rel="noreferrer"{% endif %}>{{ member.title }}</a></h3>
             <p class="team-description">{{ member.jobtitle }}</p>
             <span class="team-note">{{ member.research_focus }}</span>
+            {% if member.honors %}
+            <div class="team-honors">
+              {% for honor in member.honors %}
+              <span class="team-honor">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.2l-6.1 3.4 1.4-6.8L2.2 9.1l6.9-.8z"/></svg>
+                {% if honor.url %}<a href="{{ honor.url }}" target="_blank" rel="noreferrer">{{ honor.label }}</a>{% else %}{{ honor.label }}{% endif %}
+                {% if honor.detail %}<em>{{ honor.detail }}</em>{% endif %}
+              </span>
+              {% endfor %}
+            </div>
+            {% endif %}
           </div>
           <div class="team-content">{{ member.summary }}</div>
         </div>

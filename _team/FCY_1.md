@@ -7,6 +7,10 @@ personal_url: "https://fanchenyou.github.io/"
 group: "faculty"
 research_focus: "Computer vision, Multi-Agent Learning, and Multimodal Learning"
 summary: "探索视觉智能、智能体协作、教育大模型与心理认知交融研究。Exploring the integration of visual intelligence, agent collaboration, educational large models, and psychological cognition research."
+honors:
+  - label: "World's Top 2% Scientists (2026 Edition)"
+    detail: "Stanford University & Elsevier"
+    url: "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9"
 weight: 1
 ---
 

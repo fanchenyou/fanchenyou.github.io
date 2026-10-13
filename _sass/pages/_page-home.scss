@@ -58,6 +58,46 @@
     margin-bottom: 18px;
   }
 
+  .hero-awards {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0 0 22px;
+  }
+
+  .hero-award-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 14px;
+    border-radius: 999px;
+    background: rgba(200, 169, 107, 0.16);
+    border: 1px solid rgba(200, 169, 107, 0.45);
+    color: #e7d3ab;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-decoration: none;
+
+    &:hover {
+      background: rgba(200, 169, 107, 0.28);
+      color: #f4e6c5;
+    }
+
+    svg {
+      flex-shrink: 0;
+    }
+  }
+
+  .hero-award-badge--source {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.22);
+    color: rgba(255, 245, 242, 0.88);
+    font-weight: 500;
+  }
+
   .hero-actions {
     display: flex;
     flex-wrap: wrap;

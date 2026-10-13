@@ -120,4 +120,44 @@
     color: #6a5959;
     line-height: 1.5;
   }
+
+  .team-honors {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+  }
+
+  .team-honor {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 11px;
+    border-radius: 999px;
+    background: rgba(200, 169, 107, 0.18);
+    border: 1px solid rgba(176, 141, 76, 0.35);
+    color: #854f0b;
+    font-size: 12.5px;
+    font-weight: 600;
+    line-height: 1.4;
+
+    a {
+      color: #854f0b;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    em {
+      font-style: normal;
+      font-weight: 500;
+      opacity: 0.85;
+    }
+
+    svg {
+      flex-shrink: 0;
+    }
+  }
 }
