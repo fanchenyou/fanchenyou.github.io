@@ -32,7 +32,7 @@ description: "范晨悠个人主页 — FancyAI Lab，华南师范大学人工�
   <li><span class="news-date">2024 年</span> 获广东省计算机学会青年科技奖。</li>
 </ul>
 
-## 精选论文
+## 研究成果
 
 - Jiaming Zhang, Heng-yang Lu, Xinan Chen, Junyuan Zheng, Yuncheng Jiang, Ying Zhu, **Chenyou Fan**. ***"Sampling Less, Knowing More: Contradiction-aware Adaptive Spectral and Entropic Uncertainty Quantification for LLMs."*** 2026 年自然语言处理经验方法会议（EMNLP），2026。[[论文]](/assets/docs/emnlp26_paper.pdf){:target="_blank"} [[海报]](/assets/docs/emnlp26_poster.pdf){:target="_blank"}
 
