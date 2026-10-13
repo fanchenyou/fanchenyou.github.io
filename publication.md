@@ -1,5 +1,5 @@
 ---
-title: 论文与专利
+# title: 论文与专利
 layout: publication
 description: 实验室的学术论文、授权专利与学术报告
 permalink: "/publication/"

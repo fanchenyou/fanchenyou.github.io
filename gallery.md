@@ -1,5 +1,5 @@
 ---
-title: 相册
+# title: 相册
 layout: gallery
 description: 团队合影、活动瞬间与项目演示
 permalink: "/gallery/"
