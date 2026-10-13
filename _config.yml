@@ -41,3 +41,36 @@ exclude:
   - README.md
   - OLD/
   - OK/
+
+# ---------------------------------------------------------------------------
+# 访问统计（Analytics）
+#
+# 填入哪个服务的 ID，站点就启用哪个；留空的服务完全不输出代码、不发请求。
+# 可以同时启用多个（例如 GoatCounter + GA4 交叉验证）。
+#
+# 1) GoatCounter  —— 推荐。免费、无 Cookie、无需同意弹窗、脚本约 3.5KB，
+#                    后台含「每日访问曲线 + 国家/地区分布 + 来源 + 币种语言」。
+#    注册： https://www.goatcounter.com/signup
+#    注册时填的子域名即 goatcounter_code，例如子域名是 fancyailab，
+#    则后台地址为 https://fancyailab.goatcounter.com
+#
+# 2) Umami Cloud —— 免费额度，界面现代，含国家地图与实时访客。
+#    注册： https://cloud.umami.is  → 添加网站 → 复制 script 的 src 与 data-website-id
+#
+# 3) Google Analytics 4 —— 维度最全（国家/城市/设备/来源/留存）。
+#    注册： https://analytics.google.com  → 数据流中的衡量 ID，形如 G-XXXXXXXXXX
+#
+# 4) Cloudflare Web Analytics —— 免费、无 Cookie，含国家与来源。
+#    注册： https://dash.cloudflare.com → Web Analytics → Add a site（非代理站点
+#    选 JS snippet 方式）→ Manage site 复制 token
+#
+# 5) Microsoft Clarity —— 免费，附带热图与会话录屏，含国家/每日统计。
+#    注册： https://clarity.microsoft.com  → 新建项目 → 项目 ID
+# ---------------------------------------------------------------------------
+analytics:
+  goatcounter_code: ""      # 例：fancyailab
+  umami_src: ""             # 例：https://cloud.umami.is/script.js
+  umami_website_id: ""      # 例：xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+  ga4_measurement_id: ""    # 例：G-XXXXXXXXXX
+  cloudflare_token: ""      # 例：a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6
+  clarity_project_id: ""    # 例：abcdefghij

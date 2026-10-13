@@ -1,0 +1,48 @@
+{%- comment -%}
+  访问统计（Analytics）统一入口 —— 完全由 _config.yml 的 analytics: 段驱动。
+  只输出「已填写 ID」的服务，留空的服务不产生任何代码、不发任何请求。
+  配置方法与各服务注册地址见 _config.yml 中 analytics: 段落上方的注释。
+{%- endcomment -%}
+{%- assign an = site.analytics -%}
+{%- if an -%}
+
+{%- comment -%} 1) GoatCounter：无 Cookie、免同意弹窗，后台含每日曲线 + 国家分布 {%- endcomment -%}
+{%- if an.goatcounter_code and an.goatcounter_code != "" -%}
+<script data-goatcounter="https://{{ an.goatcounter_code }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{%- endif -%}
+
+{%- comment -%} 2) Umami Cloud（或自建）：含国家地图、实时访客 {%- endcomment -%}
+{%- if an.umami_src and an.umami_src != "" and an.umami_website_id and an.umami_website_id != "" -%}
+<script async defer src="{{ an.umami_src }}" data-website-id="{{ an.umami_website_id }}"></script>
+{%- endif -%}
+
+{%- comment -%} 3) Google Analytics 4：维度最全，可看国家 / 城市 / 设备 / 来源 {%- endcomment -%}
+{%- if an.ga4_measurement_id and an.ga4_measurement_id != "" -%}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ an.ga4_measurement_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', '{{ an.ga4_measurement_id }}');
+</script>
+{%- endif -%}
+
+{%- comment -%} 4) Cloudflare Web Analytics：无 Cookie、轻量，含国家与来源 {%- endcomment -%}
+{%- if an.cloudflare_token and an.cloudflare_token != "" -%}
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ an.cloudflare_token }}"}'></script>
+{%- endif -%}
+
+{%- comment -%} 5) Microsoft Clarity：免费，附带热图与录屏，含国家 / 每日 {%- endcomment -%}
+{%- if an.clarity_project_id and an.clarity_project_id != "" -%}
+<script>
+  (function(c, l, a, r, i, t, y) {
+    c[a] = c[a] || function() { (c[a].q = c[a].q || []).push(arguments) };
+    t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+    y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+  })(window, document, "clarity", "script", "{{ an.clarity_project_id }}");
+</script>
+{%- endif -%}
+
+{%- endif -%}
