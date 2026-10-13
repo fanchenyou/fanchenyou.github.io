@@ -5,16 +5,24 @@ description: 团队合影、活动瞬间与项目演示
 permalink: "/gallery/"
 ---
 
-<div class="gallery-page-intro">
+<!-- <div class="gallery-page-intro">
   <p>团队合影、科普活动、竞赛瞬间与项目演示，记录 FancyAI Lab 的日常。</p>
-</div>
+</div> -->
 
 <div class="gallery-story-stack">
   <figure class="gallery-story-card hero">
     <img src="{{ '/images/team_pic/2025-04-27-01.jpg' | relative_url }}" alt="FancyAI Lab master graduates group photo" />
     <figcaption>
       <span>Group Photo</span>
-      <strong>2022级毕业合照 (Master graduates)</strong>
+      <strong>2022级研究生毕业合照 (Master graduates)</strong>
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-story-card hero">
+    <img src="{{ '/images/team_pic/20260919-salon.jpg' | relative_url }}" alt="FancyAI public service photo" />
+    <figcaption>
+      <span>Public Service Photo</span>
+      <strong>2026-09 广东省立中山图书馆"解码AI"科普沙龙</strong>
     </figcaption>
   </figure>
 
@@ -22,7 +30,7 @@ permalink: "/gallery/"
     <img src="{{ '/images/team_pic/20260419-kepu.jpg' | relative_url }}" alt="FancyAI public service photo" />
     <figcaption>
       <span>Public Service Photo</span>
-      <strong>2026年广东省立中山图书馆科普大讲堂</strong>
+      <strong>2026-04 广东省立中山图书馆科普大讲堂</strong>
     </figcaption>
   </figure>
 
