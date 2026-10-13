@@ -1,0 +1,135 @@
+.page-gallery {
+  // 横向滚动相册：一行排开、左右滑动，不再上下堆叠
+  .gallery-story-stack {
+    display: flex;
+    gap: 22px;
+    margin: 0;
+    padding: 4px 2px 20px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-padding-left: 2px;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(122, 15, 22, 0.28) rgba(122, 15, 22, 0.07);
+
+    &::-webkit-scrollbar {
+      height: 6px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: rgba(122, 15, 22, 0.07);
+      border-radius: 999px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: rgba(122, 15, 22, 0.28);
+      border-radius: 999px;
+
+      &:hover {
+        background: rgba(122, 15, 22, 0.45);
+      }
+    }
+
+    @include media-breakpoint-down(sm) {
+      gap: 14px;
+      padding-bottom: 16px;
+    }
+  }
+
+  .gallery-story-card {
+    position: relative;
+    flex: 0 0 clamp(260px, 40vw, 400px);
+    height: 400px;
+    margin: 0;
+    border-radius: 20px;
+    overflow: hidden;
+    scroll-snap-align: start;
+    background: #4f0a0f;
+    box-shadow: 0 14px 30px rgba(122, 15, 22, 0.12);
+    transition: transform 220ms ease, box-shadow 220ms ease;
+
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 20px 38px rgba(122, 15, 22, 0.18);
+    }
+
+    // 原 hero 修饰符的高度差异在横向排列中已无意义，统一高度
+    &.hero {
+      height: 400px;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(79, 10, 15, 0.04), rgba(79, 10, 15, 0.5));
+    }
+
+    figcaption {
+      position: absolute;
+      left: 24px;
+      right: 24px;
+      bottom: 24px;
+      z-index: 1;
+      color: #fff;
+
+      span {
+        display: inline-block;
+        margin-bottom: 8px;
+        padding: 5px 10px;
+        border-radius: 999px;
+        background: rgba(241, 227, 198, 0.18);
+        color: #f1e3c6;
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.14em;
+      }
+
+      strong {
+        display: block;
+        font-size: 20px;
+        line-height: 1.45;
+      }
+    }
+
+    @include media-breakpoint-down(md) {
+      height: 320px;
+
+      &.hero {
+        height: 320px;
+      }
+
+      figcaption strong {
+        font-size: 18px;
+      }
+    }
+
+    @include media-breakpoint-down(sm) {
+      flex-basis: 78vw;
+      height: 280px;
+
+      &.hero {
+        height: 280px;
+      }
+
+      figcaption {
+        left: 18px;
+        right: 18px;
+        bottom: 18px;
+
+        strong {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
