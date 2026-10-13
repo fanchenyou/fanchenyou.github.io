@@ -17,8 +17,6 @@ collections:
   services:
     output: true
     sort_by: weight
-  team:
-    output: true
   topics:
     output: true
     sort_by: weight
@@ -29,11 +27,6 @@ defaults:
       type: "services"
     values:
       layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
   - scope:
       path: ""
       type: "topics"

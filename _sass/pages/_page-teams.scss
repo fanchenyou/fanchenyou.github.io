@@ -1,140 +1,56 @@
 .page-teams {
   background: #fff;
 
-  .team-hero {
-    padding: 64px 0 8px;
-
-    h1 {
-      font-family: $font-family-heading;
-      font-weight: 600;
-      font-size: 40px;
-      color: #31191b;
-      margin-bottom: 16px;
-    }
-
-    p {
-      font-size: 17px;
-      color: #6a5959;
-    }
+  .team-page {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 64px 24px 96px;
   }
 
-  .team-directory {
-    padding-top: 20px;
-  }
-
-  .team-group-block {
-    margin-top: 40px;
-  }
-
-  .team-group-header {
-    margin-bottom: 8px;
-
-    h2 {
-      font-family: $font-family-heading;
-      font-weight: 600;
-      font-size: 28px;
-      color: #31191b;
-      margin-bottom: 12px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid rgba(122, 15, 22, 0.14);
-    }
-  }
-
-  .member-row {
-    padding: 14px 0;
-    border-bottom: 1px dashed rgba(122, 15, 22, 0.12);
-  }
-
-  .member-name {
+  .team-page-title {
     font-family: $font-family-heading;
     font-weight: 600;
-    font-size: 21px;
+    font-size: 38px;
+    line-height: 1.2;
     color: #31191b;
-    margin: 0 0 6px;
-    line-height: 1.4;
-
-    a {
-      color: #31191b;
-      text-decoration: none;
-
-      &:hover {
-        color: #7a0f16;
-        text-decoration: none;
-      }
-    }
+    margin-bottom: 24px;
   }
 
-  .member-tag {
-    display: inline-block;
-    margin-left: 10px;
-    padding: 3px 9px;
-    border-radius: 999px;
-    background: rgba(122, 15, 22, 0.07);
-    color: #954d42;
-    font-family: $font-family-base;
-    font-size: 12.5px;
-    font-weight: 500;
-    letter-spacing: 0.04em;
-    vertical-align: middle;
-  }
-
-  .member-focus {
-    margin: 0;
-    font-size: 15.5px;
-    line-height: 1.65;
-    color: #6a5959;
-  }
-
-  .member-summary {
-    margin: 6px 0 0;
-    font-size: 15px;
-    line-height: 1.65;
-    color: #6a5959;
-  }
-
-  .team-honors {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 10px;
-  }
-
-  .team-honor {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 5px 11px;
-    border-radius: 999px;
-    background: rgba(200, 169, 107, 0.18);
-    border: 1px solid rgba(176, 141, 76, 0.35);
-    color: #854f0b;
-    font-size: 12.5px;
+  h2 {
+    font-family: $font-family-heading;
     font-weight: 600;
-    line-height: 1.4;
-
-    a {
-      color: #854f0b;
-      text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-      }
-    }
-
-    em {
-      font-style: normal;
-      font-weight: 500;
-      opacity: 0.85;
-    }
-
-    svg {
-      flex-shrink: 0;
-    }
+    font-size: 22px;
+    color: #31191b;
+    margin: 44px 0 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(122, 15, 22, 0.14);
   }
 
-  @include media-breakpoint-down(md) {
-    .team-hero h1 {
-      font-size: 32px;
+  p {
+    line-height: 1.75;
+    font-size: 17px;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  li {
+    padding: 7px 0;
+    line-height: 1.8;
+    font-size: 17px;
+    color: #3d2c2c;
+  }
+
+  @include media-breakpoint-down(sm) {
+    .team-page {
+      padding: 44px 20px 72px;
+    }
+
+    .team-page-title {
+      font-size: 30px;
     }
   }
 }
