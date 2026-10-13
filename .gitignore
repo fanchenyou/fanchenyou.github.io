@@ -6,6 +6,7 @@ npm-debug.log
 _site
 _site/
 .sass-cache/
+.workbuddy/
 .jekyll-cache/
 .jekyll-metadata
 Gemfile.lock
