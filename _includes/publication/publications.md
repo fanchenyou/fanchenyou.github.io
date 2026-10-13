@@ -20,6 +20,10 @@
 
 - **Chenyou Fan**, Heng Huang. ***"Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering."*** IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[paper]](https://arxiv.org/pdf/1904.04357.pdf){:target="_blank"} [[code]](https://github.com/fanchenyou/HME-VideoQA){:target="_blank"}
 
+### 大语言模型
+
+- Jiaming Zhang, Heng-yang Lu, Xinan Chen, Junyuan Zheng, Yuncheng Jiang, Ying Zhu, **Chenyou Fan**. ***"Sampling Less, Knowing More: Contradiction-aware Adaptive Spectral and Entropic Uncertainty Quantification for LLMs."*** Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026. (已接收 / accepted) [[paper]](/assets/docs/emnlp26_paper.pdf){:target="_blank"} [[poster]](/assets/docs/emnlp26_poster.pdf){:target="_blank"}
+
 ### 时间序列预测
 
 - Haiqi Jiang, Ying Ding, Chenjie Pan, Aimin Huang, Rui Chen, **Chenyou Fan**. ***"CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction."*** ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025. [[paper]](https://dl.acm.org/doi/10.1145/3711896.3736881) [[poster]](/docs/poster_kdd_2025.pdf){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/CMA_KDD_2025)
