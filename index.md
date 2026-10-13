@@ -23,10 +23,10 @@ description: "范晨悠个人主页 — FancyAI Lab，华南师范大学人工�
 
 <ul class="news-list">
   <li><span class="news-date">2026 年 10 月</span> 入选 2026 年度<em>全球前 2% 顶尖科学家</em>榜单（斯坦福大学 &amp; 爱思唯尔）。</li>
-  <li><span class="news-date">2026 年 8 月</span> 经校学位评定委员会审定，获得计算机科学与技术学术学位博士生导师资格。</li>
+  <!-- <li><span class="news-date">2026 年 8 月</span> 经校学位评定委员会审定，获得计算机科学与技术学术学位博士生导师资格。</li> -->
   <li><span class="news-date">2026 年 4 月</span> 受邀在广东省立中山图书馆科普大讲堂作 AI 前沿发展报告。</li>
-  <li><span class="news-date">2026 年 3 月</span> 指导本科生团队在世界大学生超级计算机竞赛（ASC 2026）中获<em>二等奖</em>。</li>
-  <li><span class="news-date">2025 年</span> 1 篇论文被 ACM MM 2025 收录（StoryCrafter），另有 KDD 2025、IJCAI 2025、ICASSP 2025 各 1 篇。</li>
+  <li><span class="news-date">2026 年 3 月</span> 指导本科生团队在世界大学生超级计算机竞赛（ASC 2026）中获二等奖。</li>
+  <li><span class="news-date">2025 年</span> 研究论文被 KDD，MM, IJCAI, ICASSP接收。</li>
   <li><span class="news-date">2025 年</span> 入选广东省特支计划“青年拔尖人才”。</li>
   <li><span class="news-date">2024 年</span> 获广东省计算机学会青年科技奖。</li>
 </ul>
