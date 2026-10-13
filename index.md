@@ -22,6 +22,7 @@ description: "范晨悠个人主页 — FancyAI Lab，华南师范大学人工�
 ## 新闻动态
 
 <ul class="news-list">
+  <li><span class="news-date">2026 年 10 月</span> 研究论文被 <em>EMNLP 2026</em> 接收（大语言模型不确定性量化，CASE）。</li>
   <li><span class="news-date">2026 年 10 月</span> 入选 2026 年度<em>全球前 2% 顶尖科学家</em>榜单（斯坦福大学 &amp; 爱思唯尔）。</li>
   <!-- <li><span class="news-date">2026 年 8 月</span> 经校学位评定委员会审定，获得计算机科学与技术学术学位博士生导师资格。</li> -->
   <li><span class="news-date">2026 年 4 月</span> 受邀在广东省立中山图书馆科普大讲堂作 AI 前沿发展报告。</li>
@@ -32,6 +33,8 @@ description: "范晨悠个人主页 — FancyAI Lab，华南师范大学人工�
 </ul>
 
 ## 精选论文
+
+- Jiaming Zhang, Heng-yang Lu, Xinan Chen, Junyuan Zheng, Yuncheng Jiang, Ying Zhu, **Chenyou Fan**. ***"Sampling Less, Knowing More: Contradiction-aware Adaptive Spectral and Entropic Uncertainty Quantification for LLMs."*** 2026 年自然语言处理经验方法会议（EMNLP），2026。[[论文]](/assets/docs/emnlp26_paper.pdf){:target="_blank"} [[海报]](/assets/docs/emnlp26_poster.pdf){:target="_blank"}
 
 - Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** 第 33 届 ACM 国际多媒体会议（MM），2025。[[论文]](https://dl.acm.org/doi/10.1145/3746027.3755022){:target="_blank"} [[代码]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025){:target="_blank"}
 

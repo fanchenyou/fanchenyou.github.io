@@ -23,6 +23,7 @@ I obtained my Ph.D. in Computer Science from Indiana University Bloomington in 2
 ## News
 
 <ul class="news-list">
+  <li><span class="news-date">Oct 2026</span> One paper on LLM uncertainty quantification (CASE) accepted to <em>EMNLP 2026</em>.</li>
   <li><span class="news-date">Oct 2026</span> Selected into the <em>World's Top 2% Scientists 2026</em> list (Stanford University &amp; Elsevier).</li>
   <li><span class="news-date">Aug 2026</span> Approved as a doctoral supervisor in Computer Science and Technology by the SCNU Academic Degree Committee.</li>
   <li><span class="news-date">Apr 2026</span> Delivered a public lecture on AI frontiers at the Guangdong Zhongshan Library Science Forum.</li>
@@ -33,6 +34,8 @@ I obtained my Ph.D. in Computer Science from Indiana University Bloomington in 2
 </ul>
 
 ## Selected Publications
+
+- Jiaming Zhang, Heng-yang Lu, Xinan Chen, Junyuan Zheng, Yuncheng Jiang, Ying Zhu, **Chenyou Fan**. ***"Sampling Less, Knowing More: Contradiction-aware Adaptive Spectral and Entropic Uncertainty Quantification for LLMs."*** Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026 (accepted). [[paper]](/assets/docs/emnlp26_paper.pdf){:target="_blank"} [[poster]](/assets/docs/emnlp26_poster.pdf){:target="_blank"}
 
 - Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, **Chenyou Fan**. ***"StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning."*** ACM International Conference on Multimedia (MM), 2025. [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755022){:target="_blank"} [[code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025){:target="_blank"}
 
