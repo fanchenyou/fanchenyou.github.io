@@ -11,11 +11,11 @@ description: "范晨悠个人主页 — FancyAI Lab，华南师范大学人工�
 
 我获得美国印第安纳大学计算机科学博士学位，南京大学学士学位。现为广东省级人才、博士生导师，入选2026年度全球前2%顶尖科学家榜单。
 
-<div class="home-award-badge">
+<!-- <div class="home-award-badge">
   <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.2l-6.1 3.4 1.4-6.8L2.2 9.1l6.9-.8z"/></svg>
   <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9" target="_blank" rel="noreferrer">入选 2026 年度全球前 2% 顶尖科学家榜单</a>
   <span class="home-award-source">斯坦福大学 &amp; 爱思唯尔</span>
-</div>
+</div> -->
 
 **邮箱：** fanchenyou [at] scnu [dot] edu [dot] cn
 
